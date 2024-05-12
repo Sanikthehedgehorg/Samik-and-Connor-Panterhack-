@@ -1,0 +1,3126 @@
+Alabama,Autauga,0.30%
+Alabama,Baldwin,0.36%
+Alabama,Barbour,0.38%
+Alabama,Bibb,0.25%
+Alabama,Blount,0.31%
+Alabama,Bullock,0.55%
+Alabama,Butler,0.30%
+Alabama,Calhoun,0.51%
+Alabama,Chambers,0.39%
+Alabama,Cherokee,0.38%
+Alabama,Chilton,0.36%
+Alabama,Clarke,0.29%
+Alabama,Clay,0.24%
+Alabama,Cleburne,0.33%
+Alabama,Coffee,0.36%
+Alabama,Colbert,0.38%
+Alabama,Conecuh,0.34%
+Alabama,Coosa,0.27%
+Alabama,Covington,0.29%
+Alabama,Crenshaw,0.34%
+Alabama,Cullman,0.28%
+Alabama,Dale,0.34%
+Alabama,Dallas,0.40%
+Alabama,DeKalb,0.34%
+Alabama,Elmore,0.30%
+Alabama,Escambia,0.39%
+Alabama,Etowah,0.41%
+Alabama,Fayette,0.31%
+Alabama,Franklin,0.34%
+Alabama,Geneva,0.32%
+Alabama,Greene,0.43%
+Alabama,Hale,0.38%
+Alabama,Henry,0.37%
+Alabama,Houston,0.36%
+Alabama,Jackson,0.33%
+Alabama,Jefferson,0.71%
+Alabama,Lamar,0.26%
+Alabama,Lauderdale,0.47%
+Alabama,Lawrence,0.35%
+Alabama,Lee,0.58%
+Alabama,Limestone,0.42%
+Alabama,Lowndes,0.47%
+Alabama,Macon,0.48%
+Alabama,Madison,0.51%
+Alabama,Marengo,0.44%
+Alabama,Marion,0.29%
+Alabama,Marshall,0.43%
+Alabama,Mobile,0.56%
+Alabama,Monroe,0.31%
+Alabama,Montgomery,0.43%
+Alabama,Morgan,0.41%
+Alabama,Perry,0.32%
+Alabama,Pickens,0.33%
+Alabama,Pike,0.30%
+Alabama,Randolph,0.31%
+Alabama,Russell,0.44%
+Alabama,St. Clair,0.35%
+Alabama,Shelby,0.57%
+Alabama,Sumter,0.38%
+Alabama,Talladega,0.36%
+Alabama,Tallapoosa,0.33%
+Alabama,Tuscaloosa,0.39%
+Alabama,Walker,0.27%
+Alabama,Washington,0.31%
+Alabama,Wilcox,0.41%
+Alabama,Winston,0.32%
+Alaska,Aleutians West Census Area,0.89%
+Alaska,Anchorage Municipality,1.41%
+Alaska,Bristol Bay Borough,0.97%
+Alaska,Dillingham Census Area,1.40%
+Alaska,Fairbanks North Star Borough,1.47%
+Alaska,Haines Borough,0.85%
+Alaska,Hoonah-Angoon Census Area,0.69%
+Alaska,Juneau City and Borough,0.98%
+Alaska,Kenai Peninsula Borough,0.70%
+Alaska,Ketchikan Gateway Borough,0.81%
+Alaska,Kodiak Island Borough,1.06%
+Alaska,Matanuska-Susitna Borough,1.31%
+Alaska,Nome Census Area,1.23%
+Alaska,North Slope Borough,1.11%
+Alaska,Northwest Arctic Borough,1.43%
+Alaska,Petersburg Borough,0.80%
+Alaska,Prince of Wales-Hyder Census Area,0.96%
+Alaska,Sitka City and Borough,0.53%
+Alaska,Skagway Municipality,0.35%
+Alaska,Southeast Fairbanks Census Area,0.77%
+Alaska,Valdez-Cordova Census Area,1.36%
+Alaska,Wrangell City and Borough,0.58%
+Alaska,Yakutat City and Borough,0.76%
+Alaska,Yukon-Koyukuk Census Area,1.11%
+Arizona,Apache,1.65%
+Arizona,Cochise,0.80%
+Arizona,Coconino,0.63%
+Arizona,Gila,0.72%
+Arizona,Graham,0.64%
+Arizona,Greenlee,0.39%
+Arizona,La Paz,0.80%
+Arizona,Maricopa,0.64%
+Arizona,Mohave,0.70%
+Arizona,Navajo,0.75%
+Arizona,Pima,1.00%
+Arizona,Pinal,0.75%
+Arizona,Santa Cruz,0.76%
+Arizona,Yavapai,0.58%
+Arizona,Yuma,0.84%
+Arkansas,Arkansas,0.59%
+Arkansas,Ashley,0.62%
+Arkansas,Baxter,0.51%
+Arkansas,Benton,0.74%
+Arkansas,Boone,0.64%
+Arkansas,Bradley,0.64%
+Arkansas,Calhoun,0.53%
+Arkansas,Carroll,0.65%
+Arkansas,Chicot,0.68%
+Arkansas,Clark,0.63%
+Arkansas,Clay,0.54%
+Arkansas,Cleburne,0.55%
+Arkansas,Cleveland,0.60%
+Arkansas,Columbia,0.60%
+Arkansas,Conway,0.52%
+Arkansas,Craighead,0.70%
+Arkansas,Crawford,0.61%
+Arkansas,Crittenden,0.62%
+Arkansas,Cross,0.61%
+Arkansas,Dallas,0.56%
+Arkansas,Desha,0.50%
+Arkansas,Drew,0.54%
+Arkansas,Faulkner,0.67%
+Arkansas,Franklin,0.55%
+Arkansas,Fulton,0.50%
+Arkansas,Garland,0.61%
+Arkansas,Grant,0.48%
+Arkansas,Greene,0.56%
+Arkansas,Hempstead,0.45%
+Arkansas,Hot Spring,0.53%
+Arkansas,Howard,0.51%
+Arkansas,Independence,0.64%
+Arkansas,Izard,0.67%
+Arkansas,Jackson,0.54%
+Arkansas,Jefferson,0.91%
+Arkansas,Johnson,0.58%
+Arkansas,Lafayette,0.64%
+Arkansas,Lawrence,0.51%
+Arkansas,Lee,0.52%
+Arkansas,Lincoln,0.60%
+Arkansas,Little River,0.49%
+Arkansas,Logan,0.55%
+Arkansas,Lonoke,0.74%
+Arkansas,Madison,0.44%
+Arkansas,Marion,0.58%
+Arkansas,Miller,0.72%
+Arkansas,Mississippi,0.61%
+Arkansas,Monroe,0.52%
+Arkansas,Montgomery,0.49%
+Arkansas,Nevada,0.70%
+Arkansas,Newton,0.42%
+Arkansas,Ouachita,0.62%
+Arkansas,Perry,0.49%
+Arkansas,Phillips,0.59%
+Arkansas,Pike,0.58%
+Arkansas,Poinsett,0.56%
+Arkansas,Polk,0.46%
+Arkansas,Pope,0.62%
+Arkansas,Prairie,0.62%
+Arkansas,Pulaski,0.86%
+Arkansas,Randolph,0.42%
+Arkansas,St. Francis,0.61%
+Arkansas,Saline,0.75%
+Arkansas,Scott,0.47%
+Arkansas,Searcy,0.45%
+Arkansas,Sebastian,0.78%
+Arkansas,Sevier,0.53%
+Arkansas,Sharp,0.51%
+Arkansas,Stone,0.34%
+Arkansas,Union,0.66%
+Arkansas,Van Buren,0.47%
+Arkansas,Washington,0.73%
+Arkansas,White,0.47%
+Arkansas,Woodruff,0.77%
+Arkansas,Yell,0.64%
+California,Alameda,0.88%
+California,Alpine,0.83%
+California,Amador,0.70%
+California,Butte,0.82%
+California,Calaveras,0.78%
+California,Colusa,0.69%
+California,Contra Costa,0.95%
+California,Del Norte,0.66%
+California,El Dorado,0.87%
+California,Fresno,0.93%
+California,Glenn,0.74%
+California,Humboldt,0.77%
+California,Imperial,0.97%
+California,Inyo,0.77%
+California,Kern,1.23%
+California,Kings,0.87%
+California,Lake,0.87%
+California,Lassen,0.75%
+California,Los Angeles,0.82%
+California,Madera,0.92%
+California,Marin,0.95%
+California,Mariposa,0.68%
+California,Mendocino,0.79%
+California,Merced,0.82%
+California,Modoc,0.84%
+California,Mono,0.69%
+California,Monterey,0.80%
+California,Napa,0.81%
+California,Nevada,0.88%
+California,Orange,0.79%
+California,Placer,1.08%
+California,Plumas,0.72%
+California,Riverside,1.04%
+California,Sacramento,0.93%
+California,San Benito,0.96%
+California,San Bernardino,0.90%
+California,San Diego,0.87%
+California,San Francisco,0.74%
+California,San Joaquin,0.98%
+California,San Luis Obispo,0.80%
+California,San Mateo,0.73%
+California,Santa Barbara,0.75%
+California,Santa Clara,0.85%
+California,Santa Cruz,0.76%
+California,Shasta,0.85%
+California,Sierra,0.85%
+California,Siskiyou,0.73%
+California,Solano,0.93%
+California,Sonoma,0.78%
+California,Stanislaus,0.91%
+California,Sutter,0.91%
+California,Tehama,0.76%
+California,Trinity,0.58%
+California,Tulare,0.93%
+California,Tuolumne,0.72%
+California,Ventura,0.78%
+California,Yolo,0.93%
+California,Yuba,1.00%
+Colorado,Adams,0.78%
+Colorado,Alamosa,0.58%
+Colorado,Arapahoe,0.68%
+Colorado,Archuleta,0.34%
+Colorado,Baca,0.47%
+Colorado,Bent,0.47%
+Colorado,Boulder,0.63%
+Colorado,Broomfield,0.81%
+Colorado,Chaffee,0.33%
+Colorado,Cheyenne,0.55%
+Colorado,Clear Creek,0.40%
+Colorado,Conejos,0.47%
+Colorado,Costilla,0.36%
+Colorado,Crowley,0.52%
+Colorado,Custer,0.43%
+Colorado,Delta,0.31%
+Colorado,Denver,0.56%
+Colorado,Dolores,0.28%
+Colorado,Douglas,0.69%
+Colorado,Eagle,0.42%
+Colorado,Elbert,0.47%
+Colorado,El Paso,0.55%
+Colorado,Fremont,0.41%
+Colorado,Garfield,0.43%
+Colorado,Gilpin,0.24%
+Colorado,Grand,0.36%
+Colorado,Gunnison,0.36%
+Colorado,Hinsdale,0.39%
+Colorado,Huerfano,0.35%
+Colorado,Jackson,0.22%
+Colorado,Jefferson,0.61%
+Colorado,Kiowa,0.74%
+Colorado,Kit Carson,0.64%
+Colorado,Lake,0.55%
+Colorado,La Plata,0.28%
+Colorado,Larimer,0.65%
+Colorado,Las Animas,0.29%
+Colorado,Lincoln,0.32%
+Colorado,Logan,0.54%
+Colorado,Mesa,0.51%
+Colorado,Mineral,0.40%
+Colorado,Moffat,0.48%
+Colorado,Montezuma,0.37%
+Colorado,Montrose,0.41%
+Colorado,Morgan,0.51%
+Colorado,Otero,0.48%
+Colorado,Ouray,0.31%
+Colorado,Park,0.36%
+Colorado,Phillips,0.50%
+Colorado,Pitkin,0.39%
+Colorado,Prowers,0.46%
+Colorado,Pueblo,0.72%
+Colorado,Rio Blanco,0.34%
+Colorado,Rio Grande,0.40%
+Colorado,Routt,0.34%
+Colorado,Saguache,0.48%
+Colorado,San Juan,0.24%
+Colorado,San Miguel,0.22%
+Colorado,Sedgwick,0.54%
+Colorado,Summit,0.33%
+Colorado,Teller,0.44%
+Colorado,Washington,0.50%
+Colorado,Weld,0.64%
+Colorado,Yuma,0.47%
+Connecticut,Fairfield,1.83%
+Connecticut,Hartford,2.40%
+Connecticut,Litchfield,2.07%
+Connecticut,Middlesex,2.01%
+Connecticut,New Haven,2.38%
+Connecticut,New London,1.95%
+Connecticut,Tolland,2.24%
+Connecticut,Windham,1.93%
+Delaware,Kent,0.56%
+Delaware,New Castle,0.85%
+Delaware,Sussex,0.42%
+Flordia,Alachua,1.29%
+Flordia,Baker,0.68%
+Flordia,Bay,0.69%
+Flordia,Bradford,0.72%
+Flordia,Brevard,0.92%
+Flordia,Broward,1.20%
+Flordia,Calhoun,0.64%
+Flordia,Charlotte,1.17%
+Flordia,Citrus,0.87%
+Flordia,Clay,1.03%
+Flordia,Collier,0.83%
+Flordia,Columbia,1.06%
+Flordia,DeSoto,1.08%
+Flordia,Dixie,0.64%
+Flordia,Duval,0.97%
+Flordia,Escambia,0.82%
+Flordia,Flagler,0.98%
+Flordia,Franklin,0.65%
+Flordia,Gadsden,0.83%
+Flordia,Gilchrist,0.77%
+Flordia,Glades,1.13%
+Flordia,Gulf,0.65%
+Flordia,Hamilton,0.76%
+Flordia,Hardee,1.13%
+Flordia,Hendry,1.04%
+Flordia,Hernando,0.99%
+Flordia,Highlands,0.96%
+Flordia,Hillsborough,1.15%
+Flordia,Holmes,0.60%
+Flordia,Indian River,0.89%
+Flordia,Jackson,0.64%
+Flordia,Jefferson,0.79%
+Flordia,Lafayette,0.75%
+Flordia,Lake,0.98%
+Flordia,Lee,1.03%
+Flordia,Leon,0.93%
+Flordia,Levy,0.71%
+Flordia,Liberty,0.99%
+Flordia,Madison,1.00%
+Flordia,Manatee,1.03%
+Flordia,Marion,1.03%
+Flordia,Martin,0.98%
+Flordia,Miami-Dade,1.01%
+Flordia,Monroe,0.67%
+Flordia,Nassau,1.02%
+Flordia,Okaloosa,0.71%
+Flordia,Okeechobee,0.95%
+Flordia,Orange,1.02%
+Flordia,Osceola,1.06%
+Flordia,Palm Beach,1.11%
+Flordia,Pasco,1.00%
+Flordia,Pinellas,0.96%
+Flordia,Polk,0.97%
+Flordia,Putnam,0.96%
+Flordia,St. Johns,0.99%
+Flordia,St. Lucie,1.31%
+Flordia,Santa Rosa,0.76%
+Flordia,Sarasota,0.98%
+Flordia,Seminole,0.87%
+Flordia,Sumter,1.05%
+Flordia,Suwannee,0.86%
+Flordia,Taylor,0.73%
+Flordia,Union,0.73%
+Flordia,Volusia,0.92%
+Flordia,Wakulla,0.78%
+Flordia,Walton,0.60%
+Flordia,Washington,0.56%
+Hawaii,Appling,0.70%
+Hawaii,Atkinson,1.00%
+Hawaii,Bacon,0.96%
+Hawaii,Baker,0.78%
+Hawaii,Baldwin,0.82%
+Hawaii,Banks,0.76%
+Hawaii,Barrow,1.08%
+Hawaii,Bartow,0.93%
+Hawaii,Ben Hill,1.07%
+Hawaii,Berrien,1.03%
+Hawaii,Bibb,1.26%
+Hawaii,Bleckley,0.92%
+Hawaii,Brantley,1.23%
+Hawaii,Brooks,1.39%
+Hawaii,Bryan,0.87%
+Hawaii,Bulloch,0.91%
+Hawaii,Burke,0.88%
+Hawaii,Butts,0.95%
+Hawaii,Calhoun,1.46%
+Hawaii,Camden,1.04%
+Hawaii,Candler,1.24%
+Hawaii,Carroll,0.94%
+Hawaii,Catoosa,0.98%
+Hawaii,Charlton,1.04%
+Hawaii,Chatham,1.09%
+Hawaii,Chattahoochee,1.06%
+Hawaii,Chattooga,0.89%
+Hawaii,Cherokee,0.92%
+Hawaii,Clarke,1.16%
+Hawaii,Clay,0.93%
+Hawaii,Clayton,1.28%
+Hawaii,Clinch,1.31%
+Hawaii,Cobb,0.84%
+Hawaii,Coffee,0.76%
+Hawaii,Colquitt,1.00%
+Hawaii,Columbia,1.08%
+Hawaii,Cook,0.95%
+Hawaii,Coweta,1.03%
+Hawaii,Crawford,0.99%
+Hawaii,Crisp,1.38%
+Hawaii,Dade,0.54%
+Hawaii,Dawson,0.73%
+Hawaii,Decatur,1.05%
+Hawaii,DeKalb,1.21%
+Hawaii,Dodge,0.90%
+Hawaii,Dooly,1.22%
+Hawaii,Dougherty,1.50%
+Hawaii,Douglas,1.23%
+Hawaii,Early,0.82%
+Hawaii,Echols,1.13%
+Hawaii,Effingham,1.27%
+Hawaii,Elbert,0.97%
+Hawaii,Emanuel,1.04%
+Hawaii,Evans,0.99%
+Hawaii,Fannin,0.38%
+Hawaii,Fayette,0.97%
+Hawaii,Floyd,1.05%
+Hawaii,Forsyth,0.89%
+Hawaii,Franklin,0.89%
+Hawaii,Fulton,1.09%
+Hawaii,Gilmer,0.50%
+Hawaii,Glascock,1.12%
+Hawaii,Glynn,0.82%
+Hawaii,Gordon,0.77%
+Hawaii,Grady,1.07%
+Hawaii,Greene,0.74%
+Hawaii,Gwinnett,1.30%
+Hawaii,Habersham,0.72%
+Hawaii,Hall,1.06%
+Hawaii,Hancock,0.97%
+Hawaii,Haralson,0.98%
+Hawaii,Harris,0.92%
+Hawaii,Hart,0.65%
+Hawaii,Heard,0.68%
+Hawaii,Henry,1.33%
+Hawaii,Houston,0.89%
+Hawaii,Irwin,1.28%
+Hawaii,Jackson,1.27%
+Hawaii,Jasper,1.00%
+Hawaii,Jeff Davis,0.96%
+Hawaii,Jefferson,1.16%
+Hawaii,Jenkins,1.35%
+Hawaii,Johnson,0.92%
+Hawaii,Jones,1.06%
+Hawaii,Lamar,0.89%
+Hawaii,Lanier,1.11%
+Hawaii,Laurens,1.01%
+Hawaii,Lee,1.12%
+Hawaii,Liberty,1.26%
+Hawaii,Lincoln,0.98%
+Hawaii,Long,1.10%
+Hawaii,Lowndes,1.12%
+Hawaii,Lumpkin,0.80%
+Hawaii,McDuffie,0.94%
+Hawaii,McIntosh,0.76%
+Hawaii,Macon,1.23%
+Hawaii,Madison,0.89%
+Hawaii,Marion,0.87%
+Hawaii,Meriwether,1.15%
+Hawaii,Miller,1.50%
+Hawaii,Mitchell,1.36%
+Hawaii,Monroe,0.81%
+Hawaii,Montgomery,0.99%
+Hawaii,Morgan,0.84%
+Hawaii,Murray,0.67%
+Hawaii,Muscogee,1.06%
+Hawaii,Newton,1.20%
+Hawaii,Oconee,0.80%
+Hawaii,Oglethorpe,0.91%
+Hawaii,Paulding,1.30%
+Hawaii,Peach,1.17%
+Hawaii,Pickens,0.79%
+Hawaii,Pierce,1.05%
+Hawaii,Pike,1.02%
+Hawaii,Polk,0.89%
+Hawaii,Pulaski,1.01%
+Hawaii,Putnam,0.77%
+Hawaii,Quitman,0.59%
+Hawaii,Rabun,0.63%
+Hawaii,Randolph,1.10%
+Hawaii,Richmond,1.05%
+Hawaii,Rockdale,1.13%
+Hawaii,Schley,0.75%
+Hawaii,Screven,1.07%
+Hawaii,Seminole,1.13%
+Hawaii,Spalding,1.18%
+Hawaii,Stephens,0.93%
+Hawaii,Stewart,1.32%
+Hawaii,Sumter,1.38%
+Hawaii,Talbot,1.07%
+Hawaii,Taliaferro,1.45%
+Hawaii,Tattnall,1.03%
+Hawaii,Taylor,0.90%
+Hawaii,Telfair,1.12%
+Hawaii,Terrell,1.19%
+Hawaii,Thomas,0.91%
+Hawaii,Tift,1.11%
+Hawaii,Toombs,1.03%
+Hawaii,Towns,0.38%
+Hawaii,Treutlen,1.08%
+Hawaii,Troup,1.18%
+Hawaii,Turner,1.06%
+Hawaii,Twiggs,1.20%
+Hawaii,Union,0.60%
+Hawaii,Upson,0.96%
+Hawaii,Walker,1.10%
+Hawaii,Walton,1.02%
+Hawaii,Ware,1.08%
+Hawaii,Warren,1.26%
+Hawaii,Washington,1.15%
+Hawaii,Wayne,0.87%
+Hawaii,Webster,1.25%
+Hawaii,Wheeler,0.91%
+Hawaii,White,0.78%
+Hawaii,Whitfield,0.89%
+Hawaii,Wilcox,0.99%
+Hawaii,Wilkes,1.27%
+Hawaii,Wilkinson,1.02%
+Hawaii,Georgia,1.05%
+Hawaii,Hawaii,0.39%
+Hawaii,Honolulu,0.32%
+Hawaii,Kauai,0.28%
+Hawaii,Maui,0.21%
+Idaho,Ada,0.80%
+Idaho,Adams,0.50%
+Idaho,Bannock,0.99%
+Idaho,Bear Lake,0.59%
+Idaho,Benewah,0.65%
+Idaho,Bingham,0.68%
+Idaho,Blaine,0.49%
+Idaho,Boise,0.54%
+Idaho,Bonner,0.49%
+Idaho,Bonneville,0.82%
+Idaho,Boundary,0.54%
+Idaho,Butte,0.64%
+Idaho,Camas,0.50%
+Idaho,Canyon,0.85%
+Idaho,Caribou,0.70%
+Idaho,Cassia,0.53%
+Idaho,Clark,0.47%
+Idaho,Clearwater,0.73%
+Idaho,Custer,0.31%
+Idaho,Elmore,0.78%
+Idaho,Franklin,0.58%
+Idaho,Fremont,0.69%
+Idaho,Gem,0.61%
+Idaho,Gooding,0.55%
+Idaho,Idaho,0.43%
+Idaho,Jefferson,0.61%
+Idaho,Jerome,0.71%
+Idaho,Kootenai,0.64%
+Idaho,Latah,0.78%
+Idaho,Lemhi,0.51%
+Idaho,Lewis,0.67%
+Idaho,Lincoln,0.54%
+Idaho,Madison,0.63%
+Idaho,Minidoka,0.59%
+Idaho,Nez Perce,0.89%
+Idaho,Oneida,0.57%
+Idaho,Owyhee,0.56%
+Idaho,Payette,0.65%
+Idaho,Power,0.87%
+Idaho,Shoshone,0.82%
+Idaho,Teton,0.47%
+Idaho,Twin Falls,1.09%
+Idaho,Valley,0.44%
+Idaho,Washington,0.74%
+illinois,Adams,1.67%
+illinois,Alexander,1.29%
+illinois,Bond,1.89%
+illinois,Boone,2.50%
+illinois,Brown,1.57%
+illinois,Bureau,2.25%
+illinois,Calhoun,1.76%
+illinois,Carroll,1.95%
+illinois,Cass,2.05%
+illinois,Champaign,2.35%
+illinois,Christian,1.83%
+illinois,Clark,1.82%
+illinois,Clay,1.73%
+illinois,Clinton,2.04%
+illinois,Coles,2.06%
+illinois,Cook,2.19%
+illinois,Crawford,1.55%
+illinois,Cumberland,1.79%
+illinois,DeKalb,2.86%
+illinois,De Witt,1.91%
+illinois,Douglas,2.01%
+illinois,DuPage,2.29%
+illinois,Edgar,1.72%
+illinois,Edwards,1.55%
+illinois,Effingham,1.58%
+illinois,Fayette,1.68%
+illinois,Ford,2.28%
+illinois,Franklin,1.60%
+illinois,Fulton,2.06%
+illinois,Gallatin,1.47%
+illinois,Greene,1.71%
+illinois,Grundy,2.14%
+illinois,Hamilton,1.43%
+illinois,Hancock,1.91%
+illinois,Hardin,1.06%
+illinois,Henderson,1.65%
+illinois,Henry,2.11%
+illinois,Iroquois,2.04%
+illinois,Jackson,2.01%
+illinois,Jasper,1.74%
+illinois,Jefferson,1.77%
+illinois,Jersey,1.89%
+illinois,Jo Daviess,1.97%
+illinois,Johnson,1.40%
+illinois,Kane,2.76%
+illinois,Kankakee,2.69%
+illinois,Kendall,2.86%
+illinois,Knox,2.05%
+illinois,Lake,2.95%
+illinois,LaSalle,2.51%
+illinois,Lawrence,1.10%
+illinois,Lee,2.13%
+illinois,Livingston,2.34%
+illinois,Logan,1.86%
+illinois,McDonough,2.14%
+illinois,McHenry,2.70%
+illinois,McLean,2.45%
+illinois,Macon,2.33%
+illinois,Macoupin,1.66%
+illinois,Madison,2.05%
+illinois,Marion,1.85%
+illinois,Marshall,2.32%
+illinois,Mason,2.20%
+illinois,Massac,1.61%
+illinois,Menard,1.86%
+illinois,Mercer,2.11%
+illinois,Monroe,1.81%
+illinois,Montgomery,1.77%
+illinois,Morgan,1.89%
+illinois,Moultrie,2.11%
+illinois,Ogle,2.10%
+illinois,Peoria,2.36%
+illinois,Perry,1.71%
+illinois,Piatt,1.76%
+illinois,Pike,1.76%
+illinois,Pope,1.20%
+illinois,Pulaski,0.98%
+illinois,Putnam,1.70%
+illinois,Randolph,1.39%
+illinois,Richland,1.78%
+illinois,Rock Island,2.32%
+illinois,St. Clair,2.45%
+illinois,Saline,1.65%
+illinois,Sangamon,2.18%
+illinois,Schuyler,1.81%
+illinois,Scott,1.61%
+illinois,Shelby,1.70%
+illinois,Stark,1.88%
+illinois,Stephenson,2.71%
+illinois,Tazewell,2.30%
+illinois,Union,1.57%
+illinois,Vermilion,1.94%
+illinois,Wabash,1.67%
+illinois,Warren,1.95%
+illinois,Washington,2.16%
+illinois,Wayne,1.48%
+illinois,White,1.43%
+illinois,Whiteside,2.24%
+illinois,Will,2.71%
+illinois,Williamson,1.98%
+illinois,Winnebago,2.88%
+illinois,Woodford,2.28%
+Indiana,Adams,0.78%
+Indiana,Allen,1.01%
+Indiana,Bartholomew,0.88%
+Indiana,Benton,0.69%
+Indiana,Blackford,0.96%
+Indiana,Boone,1.06%
+Indiana,Brown,0.52%
+Indiana,Carroll,0.63%
+Indiana,Cass,0.78%
+Indiana,Clark,0.87%
+Indiana,Clay,0.47%
+Indiana,Clinton,0.72%
+Indiana,Crawford,0.78%
+Indiana,Daviess,0.76%
+Indiana,Dearborn,0.82%
+Indiana,Decatur,0.68%
+Indiana,DeKalb,0.76%
+Indiana,Delaware,0.87%
+Indiana,Dubois,0.74%
+Indiana,Elkhart,1.00%
+Indiana,Fayette,0.81%
+Indiana,Floyd,0.84%
+Indiana,Fountain,0.63%
+Indiana,Franklin,0.67%
+Indiana,Fulton,0.57%
+Indiana,Gibson,0.81%
+Indiana,Grant,0.80%
+Indiana,Greene,0.76%
+Indiana,Hamilton,1.06%
+Indiana,Hancock,0.83%
+Indiana,Harrison,0.58%
+Indiana,Hendricks,1.02%
+Indiana,Henry,0.80%
+Indiana,Howard,0.94%
+Indiana,Huntington,0.79%
+Indiana,Jackson,0.58%
+Indiana,Jasper,0.49%
+Indiana,Jay,0.62%
+Indiana,Jefferson,0.75%
+Indiana,Jennings,0.74%
+Indiana,Johnson,0.93%
+Indiana,Knox,0.75%
+Indiana,Kosciusko,0.72%
+Indiana,LaGrange,0.57%
+Indiana,Lake,1.18%
+Indiana,LaPorte,0.95%
+Indiana,Lawrence,0.71%
+Indiana,Madison,0.96%
+Indiana,Marion,1.19%
+Indiana,Marshall,0.71%
+Indiana,Martin,0.55%
+Indiana,Miami,0.56%
+Indiana,Monroe,0.82%
+Indiana,Montgomery,0.51%
+Indiana,Morgan,0.58%
+Indiana,Newton,0.92%
+Indiana,Noble,0.68%
+Indiana,Ohio,0.63%
+Indiana,Orange,0.61%
+Indiana,Owen,0.76%
+Indiana,Parke,0.52%
+Indiana,Perry,0.70%
+Indiana,Pike,0.77%
+Indiana,Porter,1.10%
+Indiana,Posey,0.71%
+Indiana,Pulaski,0.39%
+Indiana,Putnam,0.53%
+Indiana,Randolph,0.84%
+Indiana,Ripley,0.62%
+Indiana,Rush,0.67%
+Indiana,St. Joseph,1.07%
+Indiana,Scott,0.74%
+Indiana,Shelby,0.73%
+Indiana,Spencer,0.66%
+Indiana,Starke,0.68%
+Indiana,Steuben,0.64%
+Indiana,Sullivan,0.74%
+Indiana,Switzerland,0.51%
+Indiana,Tippecanoe,0.81%
+Indiana,Tipton,0.74%
+Indiana,Union,0.78%
+Indiana,Vanderburgh,0.89%
+Indiana,Vermillion,0.81%
+Indiana,Vigo,1.07%
+Indiana,Wabash,0.51%
+Indiana,Warren,0.49%
+Indiana,Warrick,0.72%
+Indiana,Washington,0.66%
+Indiana,Wayne,1.06%
+Indiana,Wells,0.52%
+Indiana,White,0.57%
+Indiana,Whitley,0.76%
+Iowa,Adair,1.34%
+Iowa,Georgia,1.48%
+Iowa,Allamakee,1.28%
+Iowa,Appanoose,1.50%
+Iowa,Audubon,1.26%
+Iowa,Benton,1.34%
+Iowa,Black Hawk,1.75%
+Iowa,Boone,1.62%
+Iowa,Bremer,1.47%
+Iowa,Buchanan,1.49%
+Iowa,Buena Vista,1.25%
+Iowa,Butler,1.51%
+Iowa,Calhoun,1.43%
+Iowa,Carroll,1.08%
+Iowa,Cass,1.57%
+Iowa,Cedar,1.29%
+Iowa,Cerro Gordo,1.43%
+Iowa,Cherokee,1.11%
+Iowa,Chickasaw,1.21%
+Iowa,Clarke,1.58%
+Iowa,Clay,1.27%
+Iowa,Clayton,1.41%
+Iowa,Clinton,1.66%
+Iowa,Crawford,1.36%
+Iowa,Dallas,1.73%
+Iowa,Davis,1.64%
+Iowa,Decatur,1.86%
+Iowa,Delaware,1.35%
+Iowa,Des Moines,1.67%
+Iowa,Dickinson,0.97%
+Iowa,Dubuque,1.52%
+Iowa,Emmet,1.60%
+Iowa,Fayette,1.39%
+Iowa,Floyd,1.41%
+Iowa,Franklin,1.46%
+Iowa,Fremont,1.41%
+Iowa,Greene,1.30%
+Iowa,Grundy,1.23%
+Iowa,Guthrie,1.34%
+Iowa,Hamilton,1.48%
+Iowa,Hancock,1.30%
+Iowa,Hardin,1.50%
+Iowa,Harrison,1.37%
+Iowa,Henry,1.56%
+Iowa,Howard,1.34%
+Iowa,Humboldt,1.42%
+Iowa,Ida,1.00%
+Iowa,Iowa,1.29%
+Iowa,Jackson,1.33%
+Iowa,Jasper,1.58%
+Iowa,Jefferson,1.70%
+Iowa,Johnson,1.83%
+Iowa,Jones,1.37%
+Iowa,Keokuk,1.46%
+Iowa,Kossuth,1.10%
+Iowa,Lee,1.57%
+Iowa,Linn,1.94%
+Iowa,Louisa,1.47%
+Iowa,Lucas,1.70%
+Iowa,Lyon,1.04%
+Iowa,Madison,1.61%
+Iowa,Mahaska,1.44%
+Iowa,Marion,1.46%
+Iowa,Marshall,1.65%
+Iowa,Mills,1.48%
+Iowa,Mitchell,1.30%
+Iowa,Monona,1.27%
+Iowa,Monroe,1.59%
+Iowa,Montgomery,1.77%
+Iowa,Muscatine,1.73%
+Iowa,O'Brien,1.20%
+Iowa,Osceola,1.04%
+Iowa,Page,1.58%
+Iowa,Palo Alto,1.27%
+Iowa,Plymouth,1.20%
+Iowa,Pocahontas,1.14%
+Iowa,Polk,2.10%
+Iowa,Pottawattamie,2.08%
+Iowa,Poweshiek,1.46%
+Iowa,Ringgold,1.39%
+Iowa,Sac,1.10%
+Iowa,Scott,1.74%
+Iowa,Shelby,1.46%
+Iowa,Sioux,1.20%
+Iowa,Story,1.76%
+Iowa,Tama,1.47%
+Iowa,Taylor,1.35%
+Iowa,Union,1.59%
+Iowa,Van Buren,1.37%
+Iowa,Wapello,1.83%
+Iowa,Warren,1.70%
+Iowa,Washington,1.42%
+Iowa,Wayne,1.55%
+Iowa,Webster,1.57%
+Iowa,Winnebago,1.51%
+Iowa,Winneshiek,1.29%
+Iowa,Woodbury,1.85%
+Iowa,Worth,1.29%
+Iowa,Wright,1.57%
+Kansas,Allen,1.70%
+Kansas,Anderson,1.96%
+Kansas,Atchison,1.57%
+Kansas,Barber,1.82%
+Kansas,Barton,1.85%
+Kansas,Bourbon,1.83%
+Kansas,Brown,1.30%
+Kansas,Butler,1.75%
+Kansas,Chase,1.64%
+Kansas,Chautauqua,2.17%
+Kansas,Cherokee,1.45%
+Kansas,Cheyenne,1.62%
+Kansas,Clark,1.95%
+Kansas,Clay,1.59%
+Kansas,Cloud,1.85%
+Kansas,Coffey,1.08%
+Kansas,Comanche,1.68%
+Kansas,Cowley,1.69%
+Kansas,Crawford,1.36%
+Kansas,Decatur,1.71%
+Kansas,Dickinson,1.51%
+Kansas,Doniphan,1.31%
+Kansas,Douglas,1.41%
+Kansas,Edwards,1.86%
+Kansas,Elk,2.14%
+Kansas,Ellis,1.29%
+Kansas,Ellsworth,1.53%
+Kansas,Finney,1.47%
+Kansas,Ford,1.76%
+Kansas,Franklin,1.49%
+Kansas,Geary,1.71%
+Kansas,Gove,1.49%
+Kansas,Graham,1.77%
+Kansas,Grant,1.19%
+Kansas,Gray,1.36%
+Kansas,Greeley,1.70%
+Kansas,Greenwood,1.69%
+Kansas,Hamilton,1.95%
+Kansas,Harper,1.87%
+Kansas,Harvey,1.65%
+Kansas,Haskell,1.88%
+Kansas,Hodgeman,1.60%
+Kansas,Jackson,1.46%
+Kansas,Jefferson,1.43%
+Kansas,Jewell,1.77%
+Kansas,Johnson,1.38%
+Kansas,Kearny,1.76%
+Kansas,Kingman,1.75%
+Kansas,Kiowa,1.33%
+Kansas,Labette,1.91%
+Kansas,Lane,1.88%
+Kansas,Leavenworth,1.47%
+Kansas,Lincoln,1.72%
+Kansas,Linn,1.21%
+Kansas,Logan,1.62%
+Kansas,Lyon,1.61%
+Kansas,McPherson,1.47%
+Kansas,Marion,1.70%
+Kansas,Marshall,1.41%
+Kansas,Meade,1.40%
+Kansas,Miami,1.28%
+Kansas,Mitchell,1.92%
+Kansas,Montgomery,1.72%
+Kansas,Morris,1.64%
+Kansas,Morton,1.73%
+Kansas,Nemaha,1.10%
+Kansas,Neosho,1.59%
+Kansas,Ness,1.88%
+Kansas,Norton,1.99%
+Kansas,Osage,1.61%
+Kansas,Osborne,1.88%
+Kansas,Ottawa,1.89%
+Kansas,Pawnee,1.75%
+Kansas,Phillips,1.63%
+Kansas,Pottawatomie,1.13%
+Kansas,Pratt,1.80%
+Kansas,Rawlins,1.31%
+Kansas,Reno,1.78%
+Kansas,Republic,1.97%
+Kansas,Rice,1.77%
+Kansas,Riley,1.65%
+Kansas,Rooks,1.80%
+Kansas,Rush,1.88%
+Kansas,Russell,1.82%
+Kansas,Saline,1.47%
+Kansas,Scott,1.82%
+Kansas,Sedgwick,1.44%
+Kansas,Seward,1.70%
+Kansas,Shawnee,1.65%
+Kansas,Sheridan,1.59%
+Kansas,Sherman,1.61%
+Kansas,Smith,1.86%
+Kansas,Stafford,1.70%
+Kansas,Stanton,2.67%
+Kansas,Stevens,2.07%
+Kansas,Sumner,1.77%
+Kansas,Thomas,1.55%
+Kansas,Trego,1.62%
+Kansas,Wabaunsee,1.26%
+Kansas,Wallace,1.80%
+Kansas,Washington,1.62%
+Kansas,Wichita,2.14%
+Kansas,Wilson,1.50%
+Kansas,Woodson,1.73%
+Kansas,Wyandotte,1.81%
+Kentucky,Adair,0.74%
+Kentucky,Allen,0.70%
+Kentucky,Anderson,0.91%
+Kentucky,Ballard,0.74%
+Kentucky,Barren,0.76%
+Kentucky,Bath,0.81%
+Kentucky,Bell,0.85%
+Kentucky,Boone,1.03%
+Kentucky,Bourbon,0.86%
+Kentucky,Boyd,1.02%
+Kentucky,Boyle,0.95%
+Kentucky,Bracken,0.84%
+Kentucky,Breathitt,0.88%
+Kentucky,Breckinridge,0.73%
+Kentucky,Bullitt,1.00%
+Kentucky,Butler,0.63%
+Kentucky,Caldwell,0.64%
+Kentucky,Calloway,0.73%
+Kentucky,Campbell,1.36%
+Kentucky,Carlisle,0.89%
+Kentucky,Carroll,0.78%
+Kentucky,Carter,0.49%
+Kentucky,Casey,0.61%
+Kentucky,Christian,0.78%
+Kentucky,Clark,0.89%
+Kentucky,Clay,0.79%
+Kentucky,Clinton,0.62%
+Kentucky,Crittenden,0.61%
+Kentucky,Cumberland,0.63%
+Kentucky,Daviess,0.99%
+Kentucky,Edmonson,0.74%
+Kentucky,Elliott,0.72%
+Kentucky,Estill,0.83%
+Kentucky,Fayette,1.10%
+Kentucky,Fleming,0.75%
+Kentucky,Floyd,0.84%
+Kentucky,Franklin,0.94%
+Kentucky,Fulton,0.83%
+Kentucky,Gallatin,0.92%
+Kentucky,Garrard,0.80%
+Kentucky,Grant,0.80%
+Kentucky,Graves,0.66%
+Kentucky,Grayson,0.60%
+Kentucky,Green,0.74%
+Kentucky,Greenup,0.97%
+Kentucky,Hancock,0.68%
+Kentucky,Hardin,0.88%
+Kentucky,Harlan,0.99%
+Kentucky,Harrison,0.75%
+Kentucky,Hart,0.81%
+Kentucky,Henderson,0.92%
+Kentucky,Henry,0.98%
+Kentucky,Hickman,0.96%
+Kentucky,Hopkins,0.86%
+Kentucky,Jackson,0.60%
+Kentucky,Jefferson,1.05%
+Kentucky,Jessamine,0.91%
+Kentucky,Johnson,0.61%
+Kentucky,Kenton,1.30%
+Kentucky,Knott,0.86%
+Kentucky,Knox,0.75%
+Kentucky,Larue,0.69%
+Kentucky,Laurel,0.62%
+Kentucky,Lawrence,0.70%
+Kentucky,Lee,0.90%
+Kentucky,Leslie,0.69%
+Kentucky,Letcher,0.89%
+Kentucky,Lewis,0.83%
+Kentucky,Lincoln,0.73%
+Kentucky,Livingston,0.65%
+Kentucky,Logan,0.69%
+Kentucky,Lyon,0.61%
+Kentucky,McCracken,0.94%
+Kentucky,McCreary,0.65%
+Kentucky,McLean,0.67%
+Kentucky,Madison,1.00%
+Kentucky,Magoffin,0.71%
+Kentucky,Marion,0.76%
+Kentucky,Marshall,0.80%
+Kentucky,Martin,0.70%
+Kentucky,Mason,0.62%
+Kentucky,Meade,0.80%
+Kentucky,Menifee,0.54%
+Kentucky,Mercer,0.88%
+Kentucky,Metcalfe,0.83%
+Kentucky,Monroe,0.63%
+Kentucky,Montgomery,0.76%
+Kentucky,Morgan,0.83%
+Kentucky,Muhlenberg,0.72%
+Kentucky,Nelson,0.89%
+Kentucky,Nicholas,0.71%
+Kentucky,Ohio,0.65%
+Kentucky,Oldham,1.10%
+Kentucky,Owen,0.83%
+Kentucky,Owsley,0.83%
+Kentucky,Pendleton,0.98%
+Kentucky,Perry,0.78%
+Kentucky,Pike,0.76%
+Kentucky,Powell,0.63%
+Kentucky,Pulaski,0.78%
+Kentucky,Robertson,0.87%
+Kentucky,Rockcastle,0.64%
+Kentucky,Rowan,0.66%
+Kentucky,Russell,0.75%
+Kentucky,Scott,0.73%
+Kentucky,Shelby,0.91%
+Kentucky,Simpson,0.74%
+Kentucky,Spencer,0.77%
+Kentucky,Taylor,0.78%
+Kentucky,Todd,0.61%
+Kentucky,Trigg,0.61%
+Kentucky,Trimble,0.72%
+Kentucky,Union,0.84%
+Kentucky,Warren,0.82%
+Kentucky,Washington,0.76%
+Kentucky,Wayne,0.68%
+Kentucky,Webster,0.94%
+Kentucky,Whitley,0.71%
+Kentucky,Wolfe,0.64%
+Kentucky,Woodford,0.74%
+Louisiana,Acadia Parish,0.27%
+Louisiana,Ascension Parish,0.56%
+Louisiana,Assumption Parish,0.28%
+Louisiana,Beauregard Parish,0.36%
+Louisiana,Bossier Parish,0.73%
+Louisiana,Caddo Parish,0.61%
+Louisiana,Calcasieu Parish,0.68%
+Louisiana,Caldwell Parish,0.42%
+Louisiana,Cameron Parish,0.55%
+Louisiana,Catahoula Parish,0.30%
+Louisiana,Claiborne Parish,0.34%
+Louisiana,Concordia Parish,0.23%
+Louisiana,De Soto Parish,0.24%
+Louisiana,East Baton Rouge Parish,0.72%
+Louisiana,East Carroll Parish,0.32%
+Louisiana,Evangeline Parish,0.26%
+Louisiana,Franklin Parish,0.42%
+Louisiana,Grant Parish,0.61%
+Louisiana,Iberia Parish,0.47%
+Louisiana,Iberville Parish,0.37%
+Louisiana,Jackson Parish,0.39%
+Louisiana,Jefferson Parish,0.59%
+Louisiana,Jefferson Davis Parish,0.31%
+Louisiana,Lafayette Parish,0.68%
+Louisiana,Lafourche Parish,0.52%
+Louisiana,LaSalle Parish,0.50%
+Louisiana,Lincoln Parish,0.46%
+Louisiana,Livingston Parish,0.59%
+Louisiana,Morehouse Parish,0.41%
+Louisiana,Natchitoches Parish,0.43%
+Louisiana,Orleans Parish,0.79%
+Louisiana,Ouachita Parish,0.62%
+Louisiana,Plaquemines Parish,0.44%
+Louisiana,Pointe Coupee Parish,0.35%
+Louisiana,Rapides Parish,0.55%
+Louisiana,Richland Parish,0.27%
+Louisiana,Sabine Parish,0.30%
+Louisiana,St. Bernard Parish,0.55%
+Louisiana,St. Charles Parish,0.64%
+Louisiana,St. Helena Parish,0.32%
+Louisiana,St. James Parish,0.50%
+Louisiana,St. John the Baptist Parish,0.40%
+Louisiana,St. Landry Parish,0.34%
+Louisiana,St. Martin Parish,0.43%
+Louisiana,St. Mary Parish,0.41%
+Louisiana,St. Tammany Parish,0.89%
+Louisiana,Tangipahoa Parish,0.43%
+Louisiana,Tensas Parish,0.53%
+Louisiana,Terrebonne Parish,0.56%
+Louisiana,Union Parish,0.35%
+Louisiana,Vermilion Parish,0.31%
+Louisiana,Vernon Parish,0.60%
+Louisiana,Washington Parish,0.41%
+Louisiana,Webster Parish,0.42%
+Louisiana,West Baton Rouge Parish,0.51%
+Louisiana,West Carroll Parish,0.28%
+Louisiana,West Feliciana Parish,0.48%
+Louisiana,Winn Parish,0.31%
+Maine,Androscoggin,1.65%
+Maine,Aroostook,1.56%
+Maine,Cumberland,1.46%
+Maine,Franklin,1.25%
+Maine,Hancock,1.03%
+Maine,Kennebec,1.40%
+Maine,Knox,1.39%
+Maine,Lincoln,1.09%
+Maine,Oxford,1.31%
+Maine,Penobscot,1.53%
+Maine,Piscataquis,1.26%
+Maine,Sagadahoc,1.29%
+Maine,Somerset,1.34%
+Maine,Waldo,1.31%
+Maine,Washington,1.29%
+Maine,York,1.29%
+Maryland,Allegany,1.19%
+Maryland,Anne Arundel,0.97%
+Maryland,Baltimore,1.26%
+Maryland,Calvert,0.90%
+Maryland,Caroline,1.05%
+Maryland,Carroll,1.07%
+Maryland,Cecil,1.13%
+Maryland,Charles,1.14%
+Maryland,Dorchester,1.07%
+Maryland,Frederick,1.18%
+Maryland,Garrett,0.86%
+Maryland,Harford,1.02%
+Maryland,Howard,1.37%
+Maryland,Kent,1.10%
+Maryland,Montgomery,0.99%
+Maryland,Prince George's,1.34%
+Maryland,Queen Anne's,0.87%
+Maryland,St. Mary's,0.96%
+Maryland,Somerset,1.15%
+Maryland,Talbot,0.69%
+Maryland,Washington,1.05%
+Maryland,Wicomico,1.02%
+Maryland,Worcester,0.81%
+Maryland,Baltimore city,1.72%
+Massachusetts,Barnstable,0.89%
+Massachusetts,Berkshire,1.62%
+Massachusetts,Bristol,1.39%
+Massachusetts,Dukes,0.53%
+Massachusetts,Essex,1.32%
+Massachusetts,Franklin,1.77%
+Massachusetts,Hampden,1.82%
+Massachusetts,Hampshire,1.68%
+Massachusetts,Middlesex,1.24%
+Massachusetts,Nantucket,0.33%
+Massachusetts,Norfolk,1.35%
+Massachusetts,Plymouth,1.54%
+Massachusetts,Suffolk,0.78%
+Massachusetts,Worcester,1.62%
+Michigan,Alcona,0.94%
+Michigan,Alger,1.01%
+Michigan,Allegan,1.47%
+Michigan,Alpena,1.25%
+Michigan,Antrim,1.05%
+Michigan,Arenac,1.42%
+Michigan,Baraga,1.55%
+Michigan,Barry,1.34%
+Michigan,Bay,1.84%
+Michigan,Benzie,0.91%
+Michigan,Berrien,1.33%
+Michigan,Branch,1.32%
+Michigan,Calhoun,1.81%
+Michigan,Cass,1.08%
+Michigan,Charlevoix,1.12%
+Michigan,Cheboygan,0.99%
+Michigan,Chippewa,1.37%
+Michigan,Clare,1.33%
+Michigan,Clinton,1.56%
+Michigan,Crawford,1.23%
+Michigan,Delta,1.33%
+Michigan,Dickinson,1.50%
+Michigan,Eaton,1.76%
+Michigan,Emmet,1.04%
+Michigan,Genesee,1.89%
+Michigan,Gladwin,1.33%
+Michigan,Gogebic,1.88%
+Michigan,Grand Traverse,1.33%
+Michigan,Gratiot,1.53%
+Michigan,Hillsdale,1.10%
+Michigan,Houghton,1.40%
+Michigan,Huron,1.40%
+Michigan,Ingham,2.26%
+Michigan,Ionia,1.37%
+Michigan,Iosco,1.14%
+Michigan,Iron,1.63%
+Michigan,Isabella,1.44%
+Michigan,Jackson,1.48%
+Michigan,Kalamazoo,1.80%
+Michigan,Kalkaska,1.07%
+Michigan,Kent,1.50%
+Michigan,Keweenaw,1.13%
+Michigan,Lake,1.36%
+Michigan,Lapeer,1.06%
+Michigan,Leelanau,0.84%
+Michigan,Lenawee,1.62%
+Michigan,Livingston,1.17%
+Michigan,Luce,1.09%
+Michigan,Mackinac,1.06%
+Michigan,Macomb,1.76%
+Michigan,Manistee,1.25%
+Michigan,Marquette,1.22%
+Michigan,Mason,1.22%
+Michigan,Mecosta,1.18%
+Michigan,Menominee,1.19%
+Michigan,Midland,1.86%
+Michigan,Missaukee,1.10%
+Michigan,Monroe,1.40%
+Michigan,Montcalm,1.39%
+Michigan,Montmorency,1.06%
+Michigan,Muskegon,1.63%
+Michigan,Newaygo,1.37%
+Michigan,Oakland,1.58%
+Michigan,Oceana,1.28%
+Michigan,Ogemaw,1.14%
+Michigan,Ontonagon,1.46%
+Michigan,Osceola,1.28%
+Michigan,Oscoda,1.07%
+Michigan,Otsego,1.03%
+Michigan,Ottawa,1.37%
+Michigan,Presque Isle,1.15%
+Michigan,Roscommon,1.20%
+Michigan,Saginaw,1.84%
+Michigan,St. Clair,1.39%
+Michigan,St. Joseph,1.20%
+Michigan,Sanilac,1.11%
+Michigan,Schoolcraft,1.08%
+Michigan,Shiawassee,1.46%
+Michigan,Tuscola,1.42%
+Michigan,Van Buren,1.53%
+Michigan,Washtenaw,1.84%
+Michigan,Wayne,2.16%
+Michigan,Wexford,1.28%
+Minnesota,Aitkin,0.60%
+Minnesota,Anoka,1.17%
+Minnesota,Becker,0.80%
+Minnesota,Beltrami,1.05%
+Minnesota,Benton,1.17%
+Minnesota,Big Stone,0.86%
+Minnesota,Blue Earth,1.13%
+Minnesota,Brown,1.10%
+Minnesota,Carlton,1.25%
+Minnesota,Carver,1.21%
+Minnesota,Cass,0.64%
+Minnesota,Chippewa,1.04%
+Minnesota,Chisago,1.24%
+Minnesota,Clay,1.30%
+Minnesota,Clearwater,0.81%
+Minnesota,Cook,0.79%
+Minnesota,Cottonwood,1.24%
+Minnesota,Crow Wing,0.93%
+Minnesota,Dakota,1.17%
+Minnesota,Dodge,1.19%
+Minnesota,Douglas,0.89%
+Minnesota,Faribault,1.07%
+Minnesota,Fillmore,0.96%
+Minnesota,Freeborn,1.12%
+Minnesota,Goodhue,1.11%
+Minnesota,Grant,1.06%
+Minnesota,Hennepin,1.32%
+Minnesota,Houston,1.15%
+Minnesota,Hubbard,0.80%
+Minnesota,Isanti,1.14%
+Minnesota,Itasca,0.83%
+Minnesota,Jackson,0.97%
+Minnesota,Kanabec,1.15%
+Minnesota,Kandiyohi,1.02%
+Minnesota,Kittson,0.99%
+Minnesota,Koochiching,0.79%
+Minnesota,Lac qui Parle,1.01%
+Minnesota,Lake,0.78%
+Minnesota,Lake of the Woods,0.66%
+Minnesota,Le Sueur,1.10%
+Minnesota,Lincoln,1.17%
+Minnesota,Lyon,0.97%
+Minnesota,McLeod,1.19%
+Minnesota,Mahnomen,1.07%
+Minnesota,Marshall,0.88%
+Minnesota,Martin,1.03%
+Minnesota,Meeker,0.97%
+Minnesota,Mille Lacs,1.15%
+Minnesota,Morrison,0.96%
+Minnesota,Mower,0.98%
+Minnesota,Murray,0.79%
+Minnesota,Nicollet,1.17%
+Minnesota,Nobles,1.01%
+Minnesota,Norman,1.02%
+Minnesota,Olmsted,1.34%
+Minnesota,Otter Tail,0.81%
+Minnesota,Pennington,1.11%
+Minnesota,Pine,0.91%
+Minnesota,Pipestone,0.92%
+Minnesota,Polk,1.03%
+Minnesota,Pope,0.89%
+Minnesota,Ramsey,1.47%
+Minnesota,Red Lake,1.06%
+Minnesota,Redwood,1.02%
+Minnesota,Renville,1.11%
+Minnesota,Rice,1.17%
+Minnesota,Rock,0.73%
+Minnesota,Roseau,1.06%
+Minnesota,St. Louis,1.18%
+Minnesota,Scott,1.19%
+Minnesota,Sherburne,1.23%
+Minnesota,Sibley,1.11%
+Minnesota,Stearns,1.25%
+Minnesota,Steele,1.29%
+Minnesota,Stevens,0.92%
+Minnesota,Swift,0.93%
+Minnesota,Todd,0.96%
+Minnesota,Traverse,1.00%
+Minnesota,Wabasha,1.16%
+Minnesota,Wadena,1.06%
+Minnesota,Waseca,1.17%
+Minnesota,Washington,1.24%
+Minnesota,Watonwan,1.09%
+Minnesota,Wilkin,0.83%
+Minnesota,Winona,1.01%
+Minnesota,Wright,1.18%
+Minnesota,Yellow Medicine,1.13%
+Mississippi,Adams,0.81%
+Mississippi,Alcorn,0.70%
+Mississippi,Amite,0.58%
+Mississippi,Attala,0.78%
+Mississippi,Benton,0.67%
+Mississippi,Bolivar,1.02%
+Mississippi,Calhoun,0.90%
+Mississippi,Carroll,0.73%
+Mississippi,Chickasaw,1.08%
+Mississippi,Choctaw,0.50%
+Mississippi,Claiborne,0.71%
+Mississippi,Clarke,0.66%
+Mississippi,Clay,0.73%
+Mississippi,Coahoma,1.45%
+Mississippi,Copiah,0.78%
+Mississippi,Covington,0.62%
+Mississippi,DeSoto,0.79%
+Mississippi,Forrest,1.17%
+Mississippi,Franklin,0.62%
+Mississippi,George,0.69%
+Mississippi,Greene,0.89%
+Mississippi,Grenada,0.88%
+Mississippi,Hancock,0.73%
+Mississippi,Harrison,0.80%
+Mississippi,Hinds,1.04%
+Mississippi,Holmes,0.92%
+Mississippi,Humphreys,1.17%
+Mississippi,Itawamba,0.74%
+Mississippi,Jackson,0.88%
+Mississippi,Jasper,0.82%
+Mississippi,Jefferson,0.80%
+Mississippi,Jefferson Davis,0.83%
+Mississippi,Jones,0.91%
+Mississippi,Kemper,0.50%
+Mississippi,Lafayette,0.70%
+Mississippi,Lamar,0.74%
+Mississippi,Lauderdale,1.08%
+Mississippi,Lawrence,0.68%
+Mississippi,Leake,0.68%
+Mississippi,Lee,0.86%
+Mississippi,Leflore,1.06%
+Mississippi,Lincoln,0.75%
+Mississippi,Lowndes,0.58%
+Mississippi,Madison,0.81%
+Mississippi,Marion,0.75%
+Mississippi,Marshall,0.84%
+Mississippi,Monroe,0.76%
+Mississippi,Montgomery,0.84%
+Mississippi,Neshoba,0.81%
+Mississippi,Newton,0.74%
+Mississippi,Noxubee,1.17%
+Mississippi,Oktibbeha,0.84%
+Mississippi,Panola,0.81%
+Mississippi,Pearl River,0.70%
+Mississippi,Perry,0.63%
+Mississippi,Pike,0.89%
+Mississippi,Pontotoc,0.65%
+Mississippi,Prentiss,0.87%
+Mississippi,Quitman,1.20%
+Mississippi,Rankin,0.81%
+Mississippi,Scott,0.87%
+Mississippi,Sharkey,1.24%
+Mississippi,Simpson,0.65%
+Mississippi,Smith,0.54%
+Mississippi,Stone,0.74%
+Mississippi,Sunflower,1.08%
+Mississippi,Tallahatchie,0.72%
+Mississippi,Tate,0.86%
+Mississippi,Tippah,0.82%
+Mississippi,Tishomingo,0.53%
+Mississippi,Tunica,0.48%
+Mississippi,Union,0.66%
+Mississippi,Walthall,0.83%
+Mississippi,Warren,0.74%
+Mississippi,Washington,0.98%
+Mississippi,Wayne,0.77%
+Mississippi,Webster,0.69%
+Mississippi,Wilkinson,0.82%
+Mississippi,Winston,0.68%
+Mississippi,Yalobusha,0.78%
+Mississippi,Yazoo,0.84%
+Missouri,Adair,0.85%
+Missouri,Andrew,0.87%
+Missouri,Atchison,0.98%
+Missouri,Audrain,1.01%
+Missouri,Barry,0.68%
+Missouri,Barton,0.98%
+Missouri,Bates,0.73%
+Missouri,Benton,0.67%
+Missouri,Bollinger,0.63%
+Missouri,Boone,1.02%
+Missouri,Buchanan,0.92%
+Missouri,Butler,0.68%
+Missouri,Caldwell,0.86%
+Missouri,Callaway,0.80%
+Missouri,Camden,0.56%
+Missouri,Cape Girardeau,0.80%
+Missouri,Carroll,1.03%
+Missouri,Carter,0.56%
+Missouri,Cass,1.10%
+Missouri,Cedar,0.76%
+Missouri,Chariton,0.80%
+Missouri,Christian,0.88%
+Missouri,Clark,1.10%
+Missouri,Clay,1.43%
+Missouri,Clinton,0.97%
+Missouri,Cole,0.98%
+Missouri,Cooper,0.73%
+Missouri,Crawford,0.72%
+Missouri,Dade,0.78%
+Missouri,Dallas,0.54%
+Missouri,Daviess,0.83%
+Missouri,DeKalb,0.84%
+Missouri,Dent,0.65%
+Missouri,Douglas,0.48%
+Missouri,Dunklin,0.74%
+Missouri,Franklin,0.99%
+Missouri,Gasconade,0.84%
+Missouri,Gentry,1.33%
+Missouri,Greene,0.91%
+Missouri,Grundy,1.03%
+Missouri,Harrison,0.95%
+Missouri,Henry,0.91%
+Missouri,Hickory,0.63%
+Missouri,Holt,1.03%
+Missouri,Howard,0.75%
+Missouri,Howell,0.62%
+Missouri,Iron,0.67%
+Missouri,Jackson,1.43%
+Missouri,Jasper,0.83%
+Missouri,Jefferson,0.99%
+Missouri,Johnson,0.81%
+Missouri,Knox,0.93%
+Missouri,Laclede,0.66%
+Missouri,Lafayette,0.89%
+Missouri,Lawrence,0.76%
+Missouri,Lewis,0.91%
+Missouri,Lincoln,0.89%
+Missouri,Linn,0.99%
+Missouri,Livingston,1.03%
+Missouri,McDonald,0.61%
+Missouri,Macon,0.81%
+Missouri,Madison,0.81%
+Missouri,Maries,0.57%
+Missouri,Marion,0.92%
+Missouri,Mercer,1.02%
+Missouri,Miller,0.66%
+Missouri,Mississippi,0.85%
+Missouri,Moniteau,0.77%
+Missouri,Monroe,0.75%
+Missouri,Montgomery,0.95%
+Missouri,Morgan,0.66%
+Missouri,New Madrid,0.76%
+Missouri,Newton,0.73%
+Missouri,Nodaway,0.97%
+Missouri,Oregon,0.55%
+Missouri,Osage,0.66%
+Missouri,Ozark,0.52%
+Missouri,Pemiscot,1.09%
+Missouri,Perry,0.80%
+Missouri,Pettis,0.84%
+Missouri,Phelps,0.68%
+Missouri,Pike,0.83%
+Missouri,Platte,1.28%
+Missouri,Polk,0.63%
+Missouri,Pulaski,0.62%
+Missouri,Putnam,1.24%
+Missouri,Ralls,0.77%
+Missouri,Randolph,0.96%
+Missouri,Ray,0.94%
+Missouri,Reynolds,0.55%
+Missouri,Ripley,0.57%
+Missouri,St. Charles,1.34%
+Missouri,St. Clair,0.80%
+Missouri,Ste. Genevieve,0.76%
+Missouri,St. Francois,0.90%
+Missouri,St. Louis,1.45%
+Missouri,St. Louis City,0.89%
+Missouri,Saline,0.90%
+Missouri,Schuyler,1.04%
+Missouri,Scotland,0.68%
+Missouri,Scott,0.43%
+Missouri,Shannon,1.01%
+Missouri,Shelby,0.73%
+Missouri,Stoddard,0.51%
+Missouri,Stone,0.92%
+Missouri,Sullivan,0.64%
+Missouri,Taney,0.51%
+Missouri,Texas,0.80%
+Missouri,Vernon,0.91%
+Missouri,Warren,0.62%
+Missouri,Washington,0.61%
+Missouri,Wayne,0.58%
+Missouri,Webster,0.87%
+Missouri,Worth,0.47%
+Missouri,Wright,0.81%
+Montana,Beaverhead,0.74%
+Montana,Big Horn,0.72%
+Montana,Blaine,1.69%
+Montana,Broadwater,0.68%
+Montana,Carbon,0.68%
+Montana,Carter,0.77%
+Montana,Cascade,1.16%
+Montana,Chouteau,0.80%
+Montana,Custer,1.05%
+Montana,Daniels,0.85%
+Montana,Dawson,1.23%
+Montana,Deer Lodge,1.09%
+Montana,Fallon,0.65%
+Montana,Fergus,0.99%
+Montana,Flathead,0.91%
+Montana,Gallatin,0.89%
+Montana,Garfield,0.88%
+Montana,Glacier,0.92%
+Montana,Golden Valley,0.70%
+Montana,Granite,0.66%
+Montana,Hill,1.12%
+Montana,Jefferson,0.62%
+Montana,Judith Basin,0.49%
+Montana,Lake,0.71%
+Montana,Lewis and Clark,1.01%
+Montana,Liberty,1.06%
+Montana,Lincoln,0.68%
+Montana,McCone,0.70%
+Montana,Madison,0.52%
+Montana,Meagher,0.66%
+Montana,Mineral,0.71%
+Montana,Missoula,1.24%
+Montana,Musselshell,0.72%
+Montana,Park,0.67%
+Montana,Petroleum,0.80%
+Montana,Phillips,0.88%
+Montana,Pondera,1.01%
+Montana,Powder River,0.78%
+Montana,Powell,0.96%
+Montana,Prairie,1.23%
+Montana,Ravalli,0.59%
+Montana,Richland,0.71%
+Montana,Roosevelt,1.19%
+Montana,Rosebud,0.71%
+Montana,Sanders,0.55%
+Montana,Sheridan,1.02%
+Montana,Silver Bow,1.16%
+Montana,Stillwater,0.64%
+Montana,Sweet Grass,0.59%
+Montana,Teton,0.86%
+Montana,Toole,1.20%
+Montana,Treasure,0.61%
+Montana,Valley,0.95%
+Montana,Wheatland,0.76%
+Montana,Wibaux,0.72%
+Montana,Yellowstone,1.04%
+Nebraska,Adams,1.59%
+Nebraska,Antelope,1.30%
+Nebraska,Arthur,1.13%
+Nebraska,Banner,1.04%
+Nebraska,Blaine,1.61%
+Nebraska,Boone,1.05%
+Nebraska,Box Butte,1.58%
+Nebraska,Boyd,1.40%
+Nebraska,Brown,1.35%
+Nebraska,Buffalo,1.53%
+Nebraska,Burt,1.44%
+Nebraska,Butler,1.23%
+Nebraska,Cass,1.63%
+Nebraska,Cedar,1.14%
+Nebraska,Chase,1.21%
+Nebraska,Cherry,1.17%
+Nebraska,Cheyenne,1.94%
+Nebraska,Clay,1.53%
+Nebraska,Colfax,1.39%
+Nebraska,Cuming,1.26%
+Nebraska,Custer,1.30%
+Nebraska,Dakota,1.79%
+Nebraska,Dawes,1.39%
+Nebraska,Dawson,1.63%
+Nebraska,Deuel,1.46%
+Nebraska,Dixon,1.48%
+Nebraska,Dodge,1.58%
+Nebraska,Douglas,2.16%
+Nebraska,Dundy,1.15%
+Nebraska,Fillmore,1.46%
+Nebraska,Franklin,1.32%
+Nebraska,Frontier,1.40%
+Nebraska,Furnas,1.35%
+Nebraska,Gage,1.57%
+Nebraska,Garden,1.35%
+Nebraska,Garfield,1.30%
+Nebraska,Gosper,1.16%
+Nebraska,Grant,1.40%
+Nebraska,Greeley,1.55%
+Nebraska,Hall,1.63%
+Nebraska,Hamilton,1.10%
+Nebraska,Harlan,1.28%
+Nebraska,Hayes,1.49%
+Nebraska,Hitchcock,1.32%
+Nebraska,Holt,1.20%
+Nebraska,Hooker,1.22%
+Nebraska,Howard,1.27%
+Nebraska,Jefferson,1.41%
+Nebraska,Johnson,1.52%
+Nebraska,Kearney,1.23%
+Nebraska,Keith,1.43%
+Nebraska,Keya Paha,1.41%
+Nebraska,Kimball,2.10%
+Nebraska,Knox,1.36%
+Nebraska,Lancaster,1.99%
+Nebraska,Lincoln,1.62%
+Nebraska,Logan,1.41%
+Nebraska,Loup,1.06%
+Nebraska,McPherson,1.45%
+Nebraska,Madison,1.42%
+Nebraska,Merrick,1.41%
+Nebraska,Morrill,1.37%
+Nebraska,Nance,1.46%
+Nebraska,Nemaha,1.54%
+Nebraska,Nuckolls,1.24%
+Nebraska,Otoe,1.61%
+Nebraska,Pawnee,1.54%
+Nebraska,Perkins,1.12%
+Nebraska,Phelps,1.38%
+Nebraska,Pierce,1.20%
+Nebraska,Platte,1.45%
+Nebraska,Polk,1.22%
+Nebraska,Red Willow,1.41%
+Nebraska,Richardson,1.42%
+Nebraska,Rock,1.24%
+Nebraska,Saline,1.54%
+Nebraska,Sarpy,2.18%
+Nebraska,Saunders,1.61%
+Nebraska,Scotts Bluff,1.53%
+Nebraska,Seward,1.46%
+Nebraska,Sheridan,1.59%
+Nebraska,Sherman,1.50%
+Nebraska,Sioux,1.43%
+Nebraska,Stanton,1.37%
+Nebraska,Thayer,1.35%
+Nebraska,Thomas,1.19%
+Nebraska,Thurston,1.64%
+Nebraska,Valley,1.51%
+Nebraska,Washington,1.58%
+Nebraska,Wayne,1.40%
+Nebraska,Webster,1.65%
+Nebraska,Wheeler,0.87%
+Nebraska,York,1.30%
+Nevada,Carson City,0.70%
+Nevada,Churchill,0.64%
+Nevada,Clark,0.56%
+Nevada,Douglas,0.56%
+Nevada,Elko,0.60%
+Nevada,Esmeralda,0.24%
+Nevada,Eureka,0.62%
+Nevada,Humboldt,0.72%
+Nevada,Lander,0.72%
+Nevada,Lincoln,0.57%
+Nevada,Lyon,0.96%
+Nevada,Mineral,0.63%
+Nevada,Nye,0.84%
+Nevada,Pershing,0.56%
+Nevada,Storey,0.56%
+Nevada,Washoe,0.59%
+Nevada,White Pine,0.53%
+New Hampshire,Belknap,1.81%
+New Hampshire,Carroll,1.34%
+New Hampshire,Cheshire,2.90%
+New Hampshire,Coos,2.32%
+New Hampshire,Grafton,2.08%
+New Hampshire,Hillsborough,2.23%
+New Hampshire,Merrimack,2.52%
+New Hampshire,Rockingham,2.00%
+New Hampshire,Strafford,2.56%
+New Hampshire,Sullivan,2.78%
+New Jersey,Atlantic,2.93%
+New Jersey,Bergen,1.76%
+New Jersey,Burlington,2.78%
+New Jersey,Camden,3.70%
+New Jersey,Cape May,1.60%
+New Jersey,Cumberland,3.01%
+New Jersey,Essex,2.05%
+New Jersey,Gloucester,3.28%
+New Jersey,Hudson,2.17%
+New Jersey,Hunterdon,2.39%
+New Jersey,Mercer,2.78%
+New Jersey,Middlesex,2.52%
+New Jersey,Monmouth,2.13%
+New Jersey,Morris,2.16%
+New Jersey,Ocean,2.09%
+New Jersey,Passaic,2.84%
+New Jersey,Salem,3.37%
+New Jersey,Somerset,2.22%
+New Jersey,Sussex,2.83%
+New Jersey,Union,2.03%
+New Jersey,Warren,2.74%
+New Mexico,Bernalillo,1.18%
+New Mexico,Catron,0.37%
+New Mexico,Chaves,0.65%
+New Mexico,Cibola,0.72%
+New Mexico,Colfax,0.61%
+New Mexico,Curry,0.53%
+New Mexico,De Baca,0.52%
+New Mexico,Doña Ana,0.76%
+New Mexico,Eddy,0.47%
+New Mexico,Grant,0.47%
+New Mexico,Guadalupe,0.59%
+New Mexico,Harding,0.33%
+New Mexico,Hidalgo,0.53%
+New Mexico,Lea,0.51%
+New Mexico,Lincoln,0.65%
+New Mexico,Los Alamos,0.67%
+New Mexico,Luna,0.60%
+New Mexico,McKinley,2.79%
+New Mexico,Mora,0.50%
+New Mexico,Otero,0.63%
+New Mexico,Quay,0.56%
+New Mexico,Rio Arriba,0.49%
+New Mexico,Roosevelt,0.50%
+New Mexico,San Juan,0.87%
+New Mexico,San Miguel,0.73%
+New Mexico,Sandoval,0.59%
+New Mexico,Santa Fe,0.64%
+New Mexico,Sierra,0.53%
+New Mexico,Socorro,0.63%
+New Mexico,Taos,0.45%
+New Mexico,Torrance,0.63%
+New Mexico,Union,0.56%
+New Mexico,Valencia,0.78%
+New York,Albany,2.17%
+New York,Allegany,3.28%
+New York,Bronx,1.23%
+New York,Broome,3.02%
+New York,Cattaraugus,2.95%
+New York,Cayuga,2.71%
+New York,Chautauqua,2.82%
+New York,Chemung,3.11%
+New York,Chenango,2.66%
+New York,Clinton,2.15%
+New York,Columbia,1.83%
+New York,Cortland,3.03%
+New York,Delaware,1.93%
+New York,Dutchess,2.34%
+New York,Erie,2.63%
+New York,Essex,1.75%
+New York,Franklin,2.05%
+New York,Fulton,2.41%
+New York,Genesee,2.76%
+New York,Greene,1.89%
+New York,Hamilton,1.08%
+New York,Herkimer,2.54%
+New York,Jefferson,1.86%
+New York,Kings,0.78%
+New York,Lewis,1.88%
+New York,Livingston,2.73%
+New York,Madison,2.93%
+New York,Monroe,3.21%
+New York,Montgomery,2.99%
+New York,Nassau,1.79%
+New York,New York,0.98%
+New York,Niagara,2.89%
+New York,Oneida,2.59%
+New York,Onondaga,3.01%
+New York,Ontario,2.64%
+New York,Orange,2.70%
+New York,Orleans,3.40%
+New York,Oswego,3.07%
+New York,Otsego,1.81%
+New York,Putnam,2.73%
+New York,Queens,1.00%
+New York,Rensselaer,2.58%
+New York,Richmond,1.04%
+New York,Rockland,1.73%
+New York,Saratoga,2.38%
+New York,Schenectady,1.67%
+New York,Schoharie,2.86%
+New York,Schuyler,2.46%
+New York,Seneca,2.32%
+New York,St. Lawrence,2.61%
+New York,Steuben,2.96%
+New York,Suffolk,2.42%
+New York,Sullivan,2.59%
+New York,Tioga,2.70%
+New York,Tompkins,2.51%
+New York,Ulster,2.40%
+New York,Warren,1.80%
+New York,Washington,2.27%
+New York,Wayne,3.01%
+New York,Westchester,1.62%
+New York,Wyoming,2.62%
+New York,Yates,2.04%
+North Carolina,Alamance,0.83%
+North Carolina,Alexander,0.73%
+North Carolina,Alleghany,0.61%
+North Carolina,Anson,0.88%
+North Carolina,Ashe,0.60%
+North Carolina,Avery,0.46%
+North Carolina,Beaufort,0.78%
+North Carolina,Bertie,0.86%
+North Carolina,Bladen,0.97%
+North Carolina,Brunswick,0.79%
+North Carolina,Buncombe,0.78%
+North Carolina,Burke,0.89%
+North Carolina,Cabarrus,1.09%
+North Carolina,Caldwell,0.76%
+North Carolina,Camden,0.65%
+North Carolina,Carteret,0.57%
+North Carolina,Caswell,0.73%
+North Carolina,Catawba,0.77%
+North Carolina,Chatham,0.89%
+North Carolina,Cherokee,0.54%
+North Carolina,Chowan,0.73%
+North Carolina,Clay,0.45%
+North Carolina,Cleveland,0.74%
+North Carolina,Columbus,0.99%
+North Carolina,Craven,0.79%
+North Carolina,Cumberland,1.20%
+North Carolina,Currituck,0.48%
+North Carolina,Dare,0.62%
+North Carolina,Davidson,0.81%
+North Carolina,Davie,0.77%
+North Carolina,Duplin,0.82%
+North Carolina,Durham,1.17%
+North Carolina,Edgecombe,1.28%
+North Carolina,Forsyth,1.10%
+North Carolina,Franklin,0.96%
+North Carolina,Gaston,1.10%
+North Carolina,Gates,0.73%
+North Carolina,Graham,0.62%
+North Carolina,Granville,0.91%
+North Carolina,Greene,0.97%
+North Carolina,Guilford,1.04%
+North Carolina,Halifax,1.12%
+North Carolina,Harnett,0.85%
+North Carolina,Haywood,0.72%
+North Carolina,Henderson,0.70%
+North Carolina,Hertford,1.05%
+North Carolina,Hoke,0.84%
+North Carolina,Hyde,0.84%
+North Carolina,Iredell,0.82%
+North Carolina,Jackson,0.40%
+North Carolina,Johnston,0.91%
+North Carolina,Jones,0.83%
+North Carolina,Lee,1.03%
+North Carolina,Lenoir,1.03%
+North Carolina,Lincoln,0.79%
+North Carolina,McDowell,0.57%
+North Carolina,Macon,0.48%
+North Carolina,Madison,0.57%
+North Carolina,Martin,1.16%
+North Carolina,Mecklenburg,1.03%
+North Carolina,Mitchell,0.57%
+North Carolina,Montgomery,0.77%
+North Carolina,Moore,0.77%
+North Carolina,Nash,0.94%
+North Carolina,New Hanover,0.74%
+North Carolina,Northampton,1.26%
+North Carolina,Onslow,0.78%
+North Carolina,Orange,1.13%
+North Carolina,Pamlico,0.66%
+North Carolina,Pasquotank,0.80%
+North Carolina,Pender,0.77%
+North Carolina,Perquimans,0.70%
+North Carolina,Person,0.77%
+North Carolina,Pitt,1.00%
+North Carolina,Polk,0.59%
+North Carolina,Randolph,0.89%
+North Carolina,Richmond,1.05%
+North Carolina,Robeson,1.05%
+North Carolina,Rockingham,0.94%
+North Carolina,Rowan,0.96%
+North Carolina,Rutherford,0.69%
+North Carolina,Sampson,0.89%
+North Carolina,Scotland,1.20%
+North Carolina,Stanly,0.78%
+North Carolina,Stokes,0.68%
+North Carolina,Surry,0.75%
+North Carolina,Swain,0.45%
+North Carolina,Transylvania,0.52%
+North Carolina,Tyrrell,0.87%
+North Carolina,Union,0.77%
+North Carolina,Vance,0.98%
+North Carolina,Wake,0.96%
+North Carolina,Warren,1.06%
+North Carolina,Washington,1.08%
+North Carolina,Watauga,0.44%
+North Carolina,Wayne,0.85%
+North Carolina,Wilkes,0.72%
+North Carolina,Wilson,1.01%
+North Carolina,Yadkin,0.80%
+North Carolina,Yancey,0.61%
+North Dakota,Adams,1.01%
+North Dakota,Barnes,1.03%
+North Dakota,Benson,0.93%
+North Dakota,Billings,0.52%
+North Dakota,Bottineau,0.72%
+North Dakota,Bowman,0.80%
+North Dakota,Burke,0.70%
+North Dakota,Burleigh,0.90%
+North Dakota,Cass,1.33%
+North Dakota,Cavalier,1.07%
+North Dakota,Dickey,1.08%
+North Dakota,Divide,0.76%
+North Dakota,Dunn,0.54%
+North Dakota,Eddy,0.89%
+North Dakota,Emmons,0.97%
+North Dakota,Foster,1.03%
+North Dakota,Golden Valley,0.81%
+North Dakota,Grand Forks,1.23%
+North Dakota,Grant,1.08%
+North Dakota,Griggs,1.21%
+North Dakota,Hettinger,1.03%
+North Dakota,Kidder,0.65%
+North Dakota,LaMoure,1.05%
+North Dakota,Logan,0.93%
+North Dakota,McHenry,0.71%
+North Dakota,McIntosh,0.88%
+North Dakota,McKenzie,0.48%
+North Dakota,McLean,0.76%
+North Dakota,Mercer,0.92%
+North Dakota,Morton,1.00%
+North Dakota,Mountrail,0.66%
+North Dakota,Nelson,0.69%
+North Dakota,Oliver,0.50%
+North Dakota,Pembina,1.15%
+North Dakota,Pierce,1.11%
+North Dakota,Ramsey,0.94%
+North Dakota,Ransom,1.14%
+North Dakota,Renville,0.86%
+North Dakota,Richland,1.27%
+North Dakota,Rolette,0.96%
+North Dakota,Sargent,1.25%
+North Dakota,Sheridan,0.66%
+North Dakota,Sioux,0.31%
+North Dakota,Slope,0.40%
+North Dakota,Stark,0.80%
+North Dakota,Steele,1.13%
+North Dakota,Stutsman,1.12%
+North Dakota,Towner,0.84%
+North Dakota,Traill,0.97%
+North Dakota,Walsh,1.08%
+North Dakota,Ward,1.13%
+North Dakota,Wells,1.27%
+North Dakota,Williams,0.70%
+Ohio,Adams,1.00%
+Ohio,Allen,1.26%
+Ohio,Ashland,1.15%
+Ohio,Ashtabula,1.48%
+Ohio,Athens,1.31%
+Ohio,Auglaize,1.02%
+Ohio,Belmont,1.16%
+Ohio,Brown,0.96%
+Ohio,Butler,1.52%
+Ohio,Carroll,1.11%
+Ohio,Champaign,1.20%
+Ohio,Clark,1.56%
+Ohio,Clermont,1.62%
+Ohio,Clinton,1.04%
+Ohio,Columbiana,1.25%
+Ohio,Coshocton,1.11%
+Ohio,Crawford,1.37%
+Ohio,Cuyahoga,2.51%
+Ohio,Darke,1.06%
+Ohio,Defiance,1.21%
+Ohio,Delaware,2.00%
+Ohio,Erie,1.55%
+Ohio,Fairfield,1.47%
+Ohio,Fayette,1.14%
+Ohio,Franklin,2.06%
+Ohio,Fulton,1.36%
+Ohio,Gallia,1.02%
+Ohio,Geauga,1.58%
+Ohio,Greene,2.06%
+Ohio,Guernsey,1.06%
+Ohio,Hamilton,1.96%
+Ohio,Hancock,1.16%
+Ohio,Hardin,1.17%
+Ohio,Harrison,0.97%
+Ohio,Henry,1.24%
+Ohio,Highland,1.05%
+Ohio,Hocking,1.04%
+Ohio,Holmes,1.11%
+Ohio,Huron,1.12%
+Ohio,Jackson,1.07%
+Ohio,Jefferson,1.10%
+Ohio,Knox,1.16%
+Ohio,Lake,1.93%
+Ohio,Lawrence,0.86%
+Ohio,Licking,1.49%
+Ohio,Logan,1.07%
+Ohio,Lorain,1.75%
+Ohio,Lucas,2.03%
+Ohio,Madison,1.21%
+Ohio,Mahoning,1.81%
+Ohio,Marion,1.29%
+Ohio,Medina,1.45%
+Ohio,Meigs,1.06%
+Ohio,Mercer,1.12%
+Ohio,Miami,1.28%
+Ohio,Monroe,0.87%
+Ohio,Montgomery,2.29%
+Ohio,Morgan,0.95%
+Ohio,Morrow,1.20%
+Ohio,Muskingum,1.05%
+Ohio,Noble,0.90%
+Ohio,Ottawa,1.10%
+Ohio,Paulding,1.21%
+Ohio,Perry,1.07%
+Ohio,Pickaway,1.16%
+Ohio,Pike,0.96%
+Ohio,Portage,1.60%
+Ohio,Preble,1.12%
+Ohio,Putnam,0.98%
+Ohio,Richland,1.58%
+Ohio,Ross,1.29%
+Ohio,Sandusky,1.23%
+Ohio,Scioto,1.33%
+Ohio,Seneca,1.19%
+Ohio,Shelby,1.09%
+Ohio,Stark,1.51%
+Ohio,Summit,1.92%
+Ohio,Trumbull,1.56%
+Ohio,Tuscarawas,1.23%
+Ohio,Union,1.37%
+Ohio,Van Wert,1.06%
+Ohio,Vinton,1.19%
+Ohio,Warren,1.57%
+Ohio,Washington,0.95%
+Ohio,Wayne,1.52%
+Ohio,Williams,1.32%
+Ohio,Wood,1.64%
+Ohio,Wyandot,0.91%
+Oklahoma,Adair,0.50%
+Oklahoma,Alfalfa,0.55%
+Oklahoma,Atoka,0.58%
+Oklahoma,Beaver,0.67%
+Oklahoma,Beckham,0.82%
+Oklahoma,Blaine,0.63%
+Oklahoma,Bryan,0.68%
+Oklahoma,Caddo,0.59%
+Oklahoma,Canadian,1.17%
+Oklahoma,Carter,0.81%
+Oklahoma,Cherokee,0.61%
+Oklahoma,Choctaw,0.48%
+Oklahoma,Cimarron,0.45%
+Oklahoma,Cleveland,1.22%
+Oklahoma,Coal,0.65%
+Oklahoma,Comanche,1.21%
+Oklahoma,Cotton,0.91%
+Oklahoma,Craig,0.67%
+Oklahoma,Creek,0.88%
+Oklahoma,Custer,0.73%
+Oklahoma,Delaware,0.64%
+Oklahoma,Dewey,0.62%
+Oklahoma,Ellis,0.72%
+Oklahoma,Garfield,0.91%
+Oklahoma,Garvin,0.56%
+Oklahoma,Grady,0.75%
+Oklahoma,Grant,0.51%
+Oklahoma,Greer,0.67%
+Oklahoma,Harmon,0.60%
+Oklahoma,Harper,0.63%
+Oklahoma,Haskell,0.50%
+Oklahoma,Hughes,0.71%
+Oklahoma,Jackson,0.76%
+Oklahoma,Jefferson,0.69%
+Oklahoma,Johnston,0.55%
+Oklahoma,Kay,0.76%
+Oklahoma,Kingfisher,0.58%
+Oklahoma,Kiowa,0.70%
+Oklahoma,Latimer,0.45%
+Oklahoma,Le Flore,0.68%
+Oklahoma,Lincoln,0.57%
+Oklahoma,Logan,0.78%
+Oklahoma,Love,0.71%
+Oklahoma,McClain,0.88%
+Oklahoma,McCurtain,0.46%
+Oklahoma,McIntosh,0.58%
+Oklahoma,Major,0.66%
+Oklahoma,Marshall,0.56%
+Oklahoma,Mayes,0.77%
+Oklahoma,Murray,0.42%
+Oklahoma,Muskogee,0.83%
+Oklahoma,Noble,0.86%
+Oklahoma,Nowata,0.75%
+Oklahoma,Okfuskee,0.59%
+Oklahoma,Oklahoma,1.20%
+Oklahoma,Okmulgee,0.73%
+Oklahoma,Osage,0.78%
+Oklahoma,Ottawa,0.67%
+Oklahoma,Pawnee,0.74%
+Oklahoma,Payne,1.01%
+Oklahoma,Pittsburg,0.54%
+Oklahoma,Pontotoc,0.62%
+Oklahoma,Pottawatomie,0.78%
+Oklahoma,Pushmataha,0.44%
+Oklahoma,Roger Mills,0.54%
+Oklahoma,Rogers,0.97%
+Oklahoma,Seminole,0.56%
+Oklahoma,Sequoyah,0.61%
+Oklahoma,Stephens,0.76%
+Oklahoma,Texas,0.58%
+Oklahoma,Tillman,0.65%
+Oklahoma,Tulsa,1.20%
+Oklahoma,Wagoner,1.05%
+Oklahoma,Washington,0.97%
+Oklahoma,Washita,0.59%
+Oklahoma,Woods,0.50%
+Oklahoma,Woodward,0.62%
+Oregon,Baker,0.97%
+Oregon,Benton,1.22%
+Oregon,Clackamas,1.09%
+Oregon,Clatsop,0.83%
+Oregon,Columbia,0.90%
+Oregon,Coos,0.82%
+Oregon,Crook,0.81%
+Oregon,Curry,0.59%
+Oregon,Deschutes,0.87%
+Oregon,Douglas,0.79%
+Oregon,Gilliam,1.19%
+Oregon,Grant,1.03%
+Oregon,Harney,1.13%
+Oregon,Hood River,0.67%
+Oregon,Jackson,0.97%
+Oregon,Jefferson,0.92%
+Oregon,Josephine,0.66%
+Oregon,Klamath,0.83%
+Oregon,Lake,0.93%
+Oregon,Lane,1.11%
+Oregon,Lincoln,0.96%
+Oregon,Linn,1.21%
+Oregon,Malheur,0.96%
+Oregon,Marion,1.15%
+Oregon,Morrow,1.04%
+Oregon,Multnomah,1.11%
+Oregon,Polk,1.12%
+Oregon,Sherman,0.92%
+Oregon,Tillamook,0.68%
+Oregon,Umatilla,1.27%
+Oregon,Union,0.90%
+Oregon,Wallowa,0.64%
+Oregon,Wasco,1.06%
+Oregon,Washington,1.08%
+Oregon,Wheeler,0.82%
+Oregon,Yamhill,0.98%
+Pennsylvania,Adams,1.57%
+Pennsylvania,Allegheny,2.00%
+Pennsylvania,Armstrong,1.87%
+Pennsylvania,Beaver,1.72%
+Pennsylvania,Bedford,0.87%
+Pennsylvania,Berks,2.04%
+Pennsylvania,Blair,1.20%
+Pennsylvania,Bradford,1.19%
+Pennsylvania,Bucks,1.55%
+Pennsylvania,Butler,1.25%
+Pennsylvania,Cambria,1.35%
+Pennsylvania,Cameron,1.79%
+Pennsylvania,Carbon,1.89%
+Pennsylvania,Centre,1.25%
+Pennsylvania,Chester,1.55%
+Pennsylvania,Clarion,1.13%
+Pennsylvania,Clearfield,1.36%
+Pennsylvania,Clinton,1.27%
+Pennsylvania,Columbia,1.22%
+Pennsylvania,Crawford,1.70%
+Pennsylvania,Cumberland,1.35%
+Pennsylvania,Dauphin,1.58%
+Pennsylvania,Delaware,2.30%
+Pennsylvania,Elk,1.45%
+Pennsylvania,Erie,1.94%
+Pennsylvania,Fayette,1.38%
+Pennsylvania,Forest,1.09%
+Pennsylvania,Franklin,1.35%
+Pennsylvania,Fulton,1.19%
+Pennsylvania,Greene,1.39%
+Pennsylvania,Huntingdon,1.02%
+Pennsylvania,Indiana,1.75%
+Pennsylvania,Jefferson,1.27%
+Pennsylvania,Juniata,1.17%
+Pennsylvania,Lackawanna,1.73%
+Pennsylvania,Lancaster,1.68%
+Pennsylvania,Lawrence,1.85%
+Pennsylvania,Lebanon,1.73%
+Pennsylvania,Lehigh,1.99%
+Pennsylvania,Luzerne,1.81%
+Pennsylvania,Lycoming,1.53%
+Pennsylvania,McKean,1.77%
+Pennsylvania,Mercer,1.48%
+Pennsylvania,Mifflin,1.62%
+Pennsylvania,Monroe,2.45%
+Pennsylvania,Montgomery,1.62%
+Pennsylvania,Montour,1.07%
+Pennsylvania,Northampton,1.91%
+Pennsylvania,Northumberland,1.46%
+Pennsylvania,Perry,1.35%
+Pennsylvania,Philadelphia,1.05%
+Pennsylvania,Pike,1.76%
+Pennsylvania,Potter,1.49%
+Pennsylvania,Schuylkill,1.78%
+Pennsylvania,Snyder,1.31%
+Pennsylvania,Somerset,1.18%
+Pennsylvania,Sullivan,0.97%
+Pennsylvania,Susquehanna,1.26%
+Pennsylvania,Tioga,1.26%
+Pennsylvania,Union,1.31%
+Pennsylvania,Venango,1.46%
+Pennsylvania,Warren,1.49%
+Pennsylvania,Washington,1.29%
+Pennsylvania,Wayne,1.46%
+Pennsylvania,Westmoreland,1.47%
+Pennsylvania,Wyoming,1.48%
+Pennsylvania,York,1.97%
+Rhode Island,Bristol,1.60%
+Rhode Island,Kent,1.84%
+Rhode Island,Newport,1.27%
+Rhode Island,Providence,1.72%
+Rhode Island,Washington,1.29%
+South Carolina,Abbeville,0.57%
+South Carolina,Aiken,0.47%
+South Carolina,Allendale,0.83%
+South Carolina,Anderson,0.59%
+South Carolina,Bamberg,0.87%
+South Carolina,Barnwell,0.67%
+South Carolina,Beaufort,0.64%
+South Carolina,Berkeley,0.68%
+South Carolina,Calhoun,0.54%
+South Carolina,Charleston,0.51%
+South Carolina,Cherokee,0.51%
+South Carolina,Chester,0.72%
+South Carolina,Chesterfield,0.46%
+South Carolina,Clarendon,0.62%
+South Carolina,Colleton,0.63%
+South Carolina,Darlington,0.43%
+South Carolina,Dillon,0.53%
+South Carolina,Dorchester,0.76%
+South Carolina,Edgefield,0.55%
+South Carolina,Fairfield,0.52%
+South Carolina,Florence,0.48%
+South Carolina,Georgetown,0.51%
+South Carolina,Greenville,0.70%
+South Carolina,Greenwood,0.75%
+South Carolina,Hampton,0.93%
+South Carolina,Horry,0.42%
+South Carolina,Jasper,0.67%
+South Carolina,Kershaw,0.60%
+South Carolina,Lancaster,0.64%
+South Carolina,Laurens,0.55%
+South Carolina,Lee,0.65%
+South Carolina,Lexington,0.61%
+South Carolina,McCormick,0.71%
+South Carolina,Marion,0.48%
+South Carolina,Marlboro,0.59%
+South Carolina,Newberry,0.79%
+South Carolina,Oconee,0.45%
+South Carolina,Orangeburg,0.70%
+South Carolina,Pickens,0.45%
+South Carolina,Richland,0.87%
+South Carolina,Saluda,0.61%
+South Carolina,Spartanburg,0.73%
+South Carolina,Sumter,0.62%
+South Carolina,Union,0.70%
+South Carolina,Williamsburg,0.82%
+South Carolina,York,0.65%
+Tennessee,Aurora,1.44%
+Tennessee,Beadle,1.35%
+Tennessee,Bennett,1.42%
+Tennessee,Bon Homme,1.57%
+Tennessee,Brookings,1.30%
+Tennessee,Brown,1.34%
+Tennessee,Brule,0.94%
+Tennessee,Buffalo
+Tennessee,Butte,1.19%
+Tennessee,Campbell,1.85%
+Tennessee,Charles Mix,1.12%
+Tennessee,Clark,1.05%
+Tennessee,Clay,1.48%
+Tennessee,Codington,1.12%
+Tennessee,Corson,1.34%
+Tennessee,Custer,0.90%
+Tennessee,Davison,1.31%
+Tennessee,Day,1.29%
+Tennessee,Deuel,1.16%
+Tennessee,Dewey,1.44%
+Tennessee,Douglas,1.43%
+Tennessee,Edmunds,1.09%
+Tennessee,Fall River,1.34%
+Tennessee,Faulk,1.06%
+Tennessee,Grant,0.96%
+Tennessee,Gregory,1.33%
+Tennessee,Haakon,0.85%
+Tennessee,Hamlin,1.19%
+Tennessee,Hand,0.95%
+Tennessee,Hanson,1.03%
+Tennessee,Harding,1.47%
+Tennessee,Hughes,1.20%
+Tennessee,Hutchinson,1.37%
+Tennessee,Hyde,1.30%
+Tennessee,Jackson,1.22%
+Tennessee,Jerauld,1.27%
+Tennessee,Jones,0.95%
+Tennessee,Kingsbury,1.15%
+Tennessee,Lake,1.21%
+Tennessee,Lawrence,1.12%
+Tennessee,Lincoln,1.48%
+Tennessee,Lyman,0.99%
+Tennessee,McCook,1.10%
+Tennessee,McPherson,1.44%
+Tennessee,Marshall,1.04%
+Tennessee,Meade,1.22%
+Tennessee,Mellette
+Tennessee,Miner,1.18%
+Tennessee,Minnehaha,1.40%
+Tennessee,Moody,1.22%
+Tennessee,Pennington,1.35%
+Tennessee,Perkins,1.28%
+Tennessee,Potter,1.35%
+Tennessee,Roberts,1.31%
+Tennessee,Sanborn,1.22%
+Tennessee,Spink,1.55%
+Tennessee,Stanley,1.27%
+Tennessee,Sully,0.94%
+Tennessee,Todd,3.20%
+Tennessee,Tripp,1.09%
+Tennessee,Turner,1.16%
+Tennessee,Union,1.25%
+Tennessee,Walworth,1.67%
+Tennessee,Yankton,1.23%
+Tennessee,Ziebach,0.75%
+Tennessee,Anderson,0.83%
+Tennessee,Bedford,0.60%
+Tennessee,Benton,0.71%
+Tennessee,Bledsoe,0.45%
+Tennessee,Blount,0.64%
+Tennessee,Bradley,0.57%
+Tennessee,Campbell,0.48%
+Tennessee,Cannon,0.59%
+Tennessee,Carroll,0.78%
+Tennessee,Carter,0.60%
+Tennessee,Cheatham,0.62%
+Tennessee,Chester,0.62%
+Tennessee,Claiborne,0.55%
+Tennessee,Clay,0.57%
+Tennessee,Cocke,0.71%
+Tennessee,Coffee,0.73%
+Tennessee,Crockett,0.72%
+Tennessee,Cumberland,0.37%
+Tennessee,Davidson,0.88%
+Tennessee,Decatur,0.54%
+Tennessee,DeKalb,0.42%
+Tennessee,Dickson,0.61%
+Tennessee,Dyer,0.73%
+Tennessee,Fayette,0.38%
+Tennessee,Fentress,0.42%
+Tennessee,Franklin,0.67%
+Tennessee,Gibson,0.85%
+Tennessee,Giles,0.60%
+Tennessee,Grainger,0.57%
+Tennessee,Greene,0.54%
+Tennessee,Grundy,0.55%
+Tennessee,Hamblen,0.52%
+Tennessee,Hamilton,0.92%
+Tennessee,Hancock,0.56%
+Tennessee,Hardeman,0.76%
+Tennessee,Hardin,0.52%
+Tennessee,Hawkins,0.68%
+Tennessee,Haywood,0.74%
+Tennessee,Henderson,0.57%
+Tennessee,Henry,0.64%
+Tennessee,Hickman,0.69%
+Tennessee,Houston,0.66%
+Tennessee,Humphreys,0.60%
+Tennessee,Jackson,0.58%
+Tennessee,Jefferson,0.53%
+Tennessee,Johnson,0.44%
+Tennessee,Knox,0.65%
+Tennessee,Lake,0.80%
+Tennessee,Lauderdale,0.80%
+Tennessee,Lawrence,0.63%
+Tennessee,Lewis,0.57%
+Tennessee,Lincoln,0.53%
+Tennessee,Loudon,0.46%
+Tennessee,McMinn,0.44%
+Tennessee,McNairy,0.53%
+Tennessee,Macon,0.59%
+Tennessee,Madison,0.78%
+Tennessee,Marion,0.57%
+Tennessee,Marshall,0.65%
+Tennessee,Maury,0.69%
+Tennessee,Meigs,0.41%
+Tennessee,Monroe,0.50%
+Tennessee,Montgomery,0.93%
+Tennessee,Moore,0.55%
+Tennessee,Morgan,0.73%
+Tennessee,Obion,0.68%
+Tennessee,Overton,0.45%
+Tennessee,Perry,0.54%
+Tennessee,Pickett,0.44%
+Tennessee,Polk,0.65%
+Tennessee,Putnam,0.70%
+Tennessee,Rhea,0.57%
+Tennessee,Roane,0.65%
+Tennessee,Robertson,0.66%
+Tennessee,Rutherford,0.68%
+Tennessee,Scott,0.61%
+Tennessee,Sequatchie,0.58%
+Tennessee,Sevier,0.40%
+Tennessee,Shelby,1.37%
+Tennessee,Smith,0.53%
+Tennessee,Stewart,0.68%
+Tennessee,Sullivan,0.73%
+Tennessee,Sumner,0.70%
+Tennessee,Tipton,0.62%
+Tennessee,Trousdale,0.67%
+Tennessee,Unicoi,0.61%
+Tennessee,Union,0.48%
+Tennessee,Van Buren,0.51%
+Tennessee,Warren,0.57%
+Tennessee,Washington,0.73%
+Tennessee,Wayne,0.57%
+Tennessee,Weakley,0.67%
+Tennessee,White,0.47%
+Tennessee,Williamson,0.57%
+Tennessee,Wilson,0.56%
+Texas,Anderson,1.37%
+Texas,Andrews,1.29%
+Texas,Angelina,1.59%
+Texas,Aransas,1.15%
+Texas,Archer,1.48%
+Texas,Armstrong,1.33%
+Texas,Atascosa,1.62%
+Texas,Austin,1.40%
+Texas,Bailey,2.19%
+Texas,Bandera,1.02%
+Texas,Bastrop,1.91%
+Texas,Baylor,1.43%
+Texas,Bee,1.28%
+Texas,Bell,2.19%
+Texas,Bexar,2.35%
+Texas,Blanco,1.05%
+Texas,Borden,0.50%
+Texas,Bosque,1.05%
+Texas,Bowie,1.44%
+Texas,Brazoria,2.02%
+Texas,Brazos,2.17%
+Texas,Brewster,1.35%
+Texas,Briscoe,1.03%
+Texas,Brooks,1.01%
+Texas,Brown,1.31%
+Texas,Burleson,1.12%
+Texas,Burnet,1.34%
+Texas,Caldwell,1.57%
+Texas,Calhoun,1.31%
+Texas,Callahan,1.14%
+Texas,Cameron,2.06%
+Texas,Camp,1.33%
+Texas,Carson,1.36%
+Texas,Cass,1.26%
+Texas,Castro,1.59%
+Texas,Chambers,1.28%
+Texas,Cherokee,1.32%
+Texas,Childress,1.93%
+Texas,Clay,1.53%
+Texas,Cochran,1.70%
+Texas,Coke,1.60%
+Texas,Coleman,1.30%
+Texas,Collin,2.00%
+Texas,Collingsworth,1.74%
+Texas,Colorado,1.40%
+Texas,Comal,1.60%
+Texas,Comanche,1.60%
+Texas,Concho,1.26%
+Texas,Cooke,1.45%
+Texas,Coryell,2.08%
+Texas,Cottle,1.42%
+Texas,Crane,1.41%
+Texas,Crockett,0.37%
+Texas,Crosby,1.89%
+Texas,Culberson,1.32%
+Texas,Dallam,1.41%
+Texas,Dallas,2.22%
+Texas,Dawson,1.50%
+Texas,Deaf Smith,1.48%
+Texas,Delta,1.14%
+Texas,Denton,2.15%
+Texas,DeWitt,1.09%
+Texas,Dickens,1.19%
+Texas,Dimmit,1.10%
+Texas,Donley,1.70%
+Texas,Duval,0.92%
+Texas,Eastland,1.30%
+Texas,Ector,1.53%
+Texas,Edwards,1.23%
+Texas,El Paso,2.00%
+Texas,Ellis,2.58%
+Texas,Erath,1.48%
+Texas,Falls,1.54%
+Texas,Fannin,1.29%
+Texas,Fayette,1.09%
+Texas,Fisher,1.57%
+Texas,Floyd,1.30%
+Texas,Foard,1.56%
+Texas,Fort Bend,2.28%
+Texas,Franklin,1.24%
+Texas,Freestone,1.18%
+Texas,Frio,1.60%
+Texas,Gaines,1.52%
+Texas,Galveston,1.92%
+Texas,Garza,1.44%
+Texas,Gillespie,1.07%
+Texas,Glasscock,0.40%
+Texas,Goliad,1.04%
+Texas,Gonzales,1.29%
+Texas,Gray,1.42%
+Texas,Grayson,1.92%
+Texas,Gregg,1.44%
+Texas,Grimes,1.20%
+Texas,Guadalupe,1.80%
+Texas,Hale,1.50%
+Texas,Hall,1.52%
+Texas,Hamilton,1.41%
+Texas,Hansford,1.49%
+Texas,Hardeman,1.50%
+Texas,Hardin,1.10%
+Texas,Harris,2.13%
+Texas,Harrison,1.33%
+Texas,Hartley,1.26%
+Texas,Haskell,1.19%
+Texas,Hays,2.33%
+Texas,Hemphill,1.05%
+Texas,Henderson,1.35%
+Texas,Hidalgo,2.18%
+Texas,Hill,1.52%
+Texas,Hockley,1.67%
+Texas,Hood,1.26%
+Texas,Hopkins,1.38%
+Texas,Houston,1.12%
+Texas,Howard,1.35%
+Texas,Hudspeth,1.17%
+Texas,Hunt,1.98%
+Texas,Hutchinson,1.70%
+Texas,Irion,1.13%
+Texas,Jack,1.79%
+Texas,Jackson,1.36%
+Texas,Jasper,1.15%
+Texas,Jeff Davis,1.00%
+Texas,Jefferson,1.89%
+Texas,Jim Hogg,0.96%
+Texas,Jim Wells,1.37%
+Texas,Johnson,1.86%
+Texas,Jones,1.53%
+Texas,Karnes,1.02%
+Texas,Kaufman,2.22%
+Texas,Kendall,1.29%
+Texas,Kenedy
+Texas,Kent,0.39%
+Texas,Kerr,1.24%
+Texas,Kimble,1.18%
+Texas,King,2.23%
+Texas,Kinney,1.14%
+Texas,Kleberg,1.86%
+Texas,Knox,1.96%
+Texas,La Salle,1.28%
+Texas,Lamar,1.26%
+Texas,Lamb,1.46%
+Texas,Lampasas,1.05%
+Texas,Lavaca,0.94%
+Texas,Lee,1.22%
+Texas,Leon,0.68%
+Texas,Liberty,1.52%
+Texas,Limestone,1.25%
+Texas,Lipscomb,1.45%
+Texas,Live Oak,0.86%
+Texas,Llano,0.90%
+Texas,Lubbock,2.03%
+Texas,Lynn,1.71%
+Texas,Madison,1.32%
+Texas,Marion,1.95%
+Texas,Martin,1.11%
+Texas,Mason,1.49%
+Texas,Matagorda,0.71%
+Texas,Maverick,1.02%
+Texas,McCulloch,0.87%
+Texas,McLennan,1.26%
+Texas,McMullen,1.48%
+Texas,Medina,1.36%
+Texas,Menard,1.54%
+Texas,Midland,1.42%
+Texas,Milam,1.34%
+Texas,Mills,0.91%
+Texas,Mitchell,1.95%
+Texas,Montague,1.18%
+Texas,Montgomery,2.04%
+Texas,Moore,1.36%
+Texas,Morris,1.08%
+Texas,Motley,1.13%
+Texas,Nacogdoches,1.02%
+Texas,Navarro,1.53%
+Texas,Newton,0.99%
+Texas,Nolan,1.64%
+Texas,Nueces,2.03%
+Texas,Ochiltree,1.46%
+Texas,Oldham,1.69%
+Texas,Orange,1.67%
+Texas,Palo Pinto,1.48%
+Texas,Panola,0.94%
+Texas,Parker,2.11%
+Texas,Parmer,1.44%
+Texas,Pecos,0.93%
+Texas,Polk,1.07%
+Texas,Potter,1.90%
+Texas,Presidio,1.28%
+Texas,Rains,1.20%
+Texas,Randall,1.80%
+Texas,Reagan,1.39%
+Texas,Real,0.90%
+Texas,Red River,1.37%
+Texas,Reeves,0.97%
+Texas,Refugio,1.44%
+Texas,Roberts,1.01%
+Texas,Robertson,1.06%
+Texas,Rockwall,2.14%
+Texas,Runnels,1.59%
+Texas,Rusk,1.06%
+Texas,Sabine,0.98%
+Texas,San Augustine,0.79%
+Texas,San Jacinto,1.21%
+Texas,San Patricio,2.30%
+Texas,San Saba,1.16%
+Texas,Schleicher,1.16%
+Texas,Scurry,1.57%
+Texas,Shackelford,1.49%
+Texas,Shelby,1.08%
+Texas,Sherman,1.82%
+Texas,Smith,1.55%
+Texas,Somervell,0.99%
+Texas,Starr,1.14%
+Texas,Stephens,1.54%
+Texas,Sterling,1.09%
+Texas,Stonewall,1.45%
+Texas,Sutton,1.73%
+Texas,Swisher,1.52%
+Texas,Tarrant,2.26%
+Texas,Taylor,1.64%
+Texas,Terrell,1.34%
+Texas,Terry,1.43%
+Texas,Throckmorton,1.49%
+Texas,Titus,1.49%
+Texas,Tom Green,1.45%
+Texas,Travis,1.95%
+Texas,Trinity,1.19%
+Texas,Tyler,1.17%
+Texas,Upshur,1.20%
+Texas,Upton,1.17%
+Texas,Uvalde,1.37%
+Texas,Val Verde,1.53%
+Texas,Van Zandt,1.15%
+Texas,Victoria,1.95%
+Texas,Walker,1.32%
+Texas,Waller,1.50%
+Texas,Ward,0.40%
+Texas,Washington,1.38%
+Texas,Webb,2.21%
+Texas,Wharton,1.44%
+Texas,Wheeler,1.55%
+Texas,Wichita,1.99%
+Texas,Wilbarger,1.72%
+Texas,Willacy,1.63%
+Texas,Williamson,2.30%
+Texas,Wilson,1.37%
+Texas,Winkler,1.11%
+Texas,Wise,1.73%
+Texas,Wood,1.10%
+Texas,Yoakum,1.06%
+Texas,Young,1.40%
+Texas,Zapata,1.03%
+Texas,Zavala,1.57%
+Utah,Beaver,0.43%
+Utah,Box Elder,0.59%
+Utah,Cache,0.67%
+Utah,Carbon,0.70%
+Utah,Daggett,0.57%
+Utah,Davis,0.72%
+Utah,Duchesne,0.71%
+Utah,Emery,0.67%
+Utah,Garfield,0.47%
+Utah,Grand,0.51%
+Utah,Iron,0.53%
+Utah,Juab,0.53%
+Utah,Kane,0.53%
+Utah,Millard,0.57%
+Utah,Morgan,0.58%
+Utah,Piute,0.51%
+Utah,Rich,0.41%
+Utah,Salt Lake,0.75%
+Utah,San Juan,1.02%
+Utah,Sanpete,0.60%
+Utah,Sevier,0.68%
+Utah,Summit,0.40%
+Utah,Tooele,0.87%
+Utah,Uintah,0.64%
+Utah,Utah,0.59%
+Utah,Wasatch,0.51%
+Utah,Washington,0.61%
+Utah,Wayne,0.46%
+Utah,Weber,0.87%
+Vermont,Addison,1.86%
+Vermont,Bennington,1.89%
+Vermont,Caledonia,2.03%
+Vermont,Chittenden,2.03%
+Vermont,Essex,1.88%
+Vermont,Franklin,1.71%
+Vermont,Grand Isle,1.64%
+Vermont,Lamoille,1.87%
+Vermont,Orange,1.99%
+Vermont,Orleans,1.82%
+Vermont,Rutland,2.13%
+Vermont,Washington,2.05%
+Vermont,Windham,2.06%
+Vermont,Windsor,2.13%
+Virginia,Accomack,0.55%
+Virginia,Albemarle,0.73%
+Virginia,Alleghany,0.70%
+Virginia,Amelia,0.40%
+Virginia,Amherst,0.55%
+Virginia,Appomattox,0.58%
+Virginia,Arlington,0.90%
+Virginia,Augusta,0.54%
+Virginia,Bath,0.45%
+Virginia,Bedford,0.51%
+Virginia,Bland,0.72%
+Virginia,Botetourt,0.66%
+Virginia,Brunswick,0.50%
+Virginia,Buchanan,0.48%
+Virginia,Buckingham,0.54%
+Virginia,Campbell,0.52%
+Virginia,Caroline,0.71%
+Virginia,Carroll,0.73%
+Virginia,Charles City,0.63%
+Virginia,Charlotte,0.55%
+Virginia,Chesterfield,0.88%
+Virginia,Clarke,0.64%
+Virginia,Craig,0.55%
+Virginia,Culpeper,0.65%
+Virginia,Cumberland,0.67%
+Virginia,Dickenson,0.61%
+Virginia,Dinwiddie,0.71%
+Virginia,Essex,0.74%
+Virginia,Fairfax,1.03%
+Virginia,Fauquier,0.84%
+Virginia,Floyd,0.61%
+Virginia,Fluvanna,0.72%
+Virginia,Franklin,0.55%
+Virginia,Frederick,0.53%
+Virginia,Giles,0.71%
+Virginia,Gloucester,0.62%
+Virginia,Goochland,0.51%
+Virginia,Grayson,0.66%
+Virginia,Greene,0.68%
+Virginia,Greensville,0.76%
+Virginia,Halifax,0.52%
+Virginia,Hanover,0.70%
+Virginia,Henrico,0.81%
+Virginia,Henry,0.54%
+Virginia,Highland,0.49%
+Virginia,Isle of Wight,0.71%
+Virginia,James City,0.74%
+Virginia,King and Queen,0.56%
+Virginia,King George,0.54%
+Virginia,King William,0.79%
+Virginia,Lancaster,0.51%
+Virginia,Lee,0.62%
+Virginia,Loudoun,1.08%
+Virginia,Louisa,0.63%
+Virginia,Lunenburg,0.55%
+Virginia,Madison,0.66%
+Virginia,Mathews,0.62%
+Virginia,Mecklenburg,0.52%
+Virginia,Middlesex,0.53%
+Virginia,Montgomery,0.84%
+Virginia,Nelson,0.58%
+Virginia,New Kent,0.72%
+Virginia,Northampton,0.76%
+Virginia,Northumberland,0.44%
+Virginia,Nottoway,0.50%
+Virginia,Orange,0.68%
+Virginia,Page,0.73%
+Virginia,Patrick,0.59%
+Virginia,Pittsylvania,0.60%
+Virginia,Powhatan,0.75%
+Virginia,Prince Edward,0.49%
+Virginia,Prince George,0.73%
+Virginia,Prince William,1.05%
+Virginia,Pulaski,0.64%
+Virginia,Rappahannock,0.64%
+Virginia,Richmond,0.62%
+Virginia,Roanoke,0.96%
+Virginia,Rockbridge,0.65%
+Virginia,Rockingham,0.59%
+Virginia,Russell,0.62%
+Virginia,Scott,0.74%
+Virginia,Shenandoah,0.57%
+Virginia,Smyth,0.71%
+Virginia,Southampton,0.71%
+Virginia,Spotsylvania,0.67%
+Virginia,Stafford,0.81%
+Virginia,Surry,0.73%
+Virginia,Sussex,0.59%
+Virginia,Tazewell,0.67%
+Virginia,Warren,0.62%
+Virginia,Washington,0.61%
+Virginia,Westmoreland,0.58%
+Virginia,Wise,0.68%
+Virginia,Wythe,0.50%
+Virginia,York,0.71%
+Virginia,Alexandria City,1.05%
+Virginia,Bristol City,0.86%
+Virginia,Buena Vista City,0.97%
+Virginia,Charlottesville City,0.84%
+Virginia,Chesapeake City,0.97%
+Virginia,Colonial Heights City,1.02%
+Virginia,Covington City,0.76%
+Virginia,Danville City,0.72%
+Virginia,Emporia City,0.71%
+Virginia,Fairfax City,0.92%
+Virginia,Falls Church City,1.23%
+Virginia,Franklin City,0.72%
+Virginia,Fredericksburg City,0.64%
+Virginia,Galax City,0.76%
+Virginia,Hampton City,1.05%
+Virginia,Harrisonburg City,0.68%
+Virginia,Hopewell City,0.98%
+Virginia,Lexington City,0.90%
+Virginia,Lynchburg City,0.93%
+Virginia,Manassas City,1.15%
+Virginia,Manassas Park City,1.27%
+Virginia,Martinsville City,0.92%
+Virginia,Newport News City,1.26%
+Virginia,Norfolk City,1.17%
+Virginia,Norton City,0.77%
+Virginia,Petersburg City,1.21%
+Virginia,Poquoson City,0.95%
+Virginia,Portsmouth City,1.33%
+Virginia,Radford City,0.70%
+Virginia,Richmond City,1.12%
+Virginia,Roanoke City,1.20%
+Virginia,Salem City,0.95%
+Virginia,Staunton City,0.82%
+Virginia,Suffolk City,1.00%
+Virginia,Virginia Beach City,0.93%
+Virginia,Waynesboro City,0.73%
+Virginia,Williamsburg City,0.59%
+Virginia,Winchester City,0.87%
+Washington,Adams,1.06%
+Washington,Asotin,0.94%
+Washington,Benton,1.11%
+Washington,Chelan,1.00%
+Washington,Clallam,1.00%
+Washington,Clark,1.09%
+Washington,Columbia,1.01%
+Washington,Cowlitz,1.17%
+Washington,Douglas,0.86%
+Washington,Ferry,0.73%
+Washington,Franklin,1.09%
+Washington,Garfield,0.83%
+Washington,Grant,1.04%
+Washington,Grays Harbor,1.05%
+Washington,Island,0.91%
+Washington,Jefferson,0.79%
+Washington,King,1.05%
+Washington,Kitsap,1.03%
+Washington,Kittitas,0.79%
+Washington,Klickitat,0.65%
+Washington,Lewis,1.01%
+Washington,Lincoln,0.83%
+Washington,Mason,1.08%
+Washington,Okanogan,0.87%
+Washington,Pacific,1.04%
+Washington,Pend Oreille,0.71%
+Washington,Pierce,1.28%
+Washington,San Juan,0.62%
+Washington,Skagit,1.15%
+Washington,Skamania,0.74%
+Washington,Snohomish,1.09%
+Washington,Spokane,1.20%
+Washington,Stevens,0.75%
+Washington,Thurston,1.14%
+Washington,Wahkiakum,0.73%
+Washington,Walla Walla,1.07%
+Washington,Whatcom,1.01%
+Washington,Whitman,0.96%
+Washington,Yakima,1.06%
+West Virginia,Barbour,0.45%
+West Virginia,Berkeley,0.70%
+West Virginia,Boone,0.69%
+West Virginia,Braxton,0.52%
+West Virginia,Brooke,0.61%
+West Virginia,Cabell,0.68%
+West Virginia,Calhoun,0.43%
+West Virginia,Clay,0.38%
+West Virginia,Doddridge,0.61%
+West Virginia,Fayette,0.67%
+West Virginia,Gilmer,0.53%
+West Virginia,Grant,0.32%
+West Virginia,Greenbrier,0.48%
+West Virginia,Hampshire,0.40%
+West Virginia,Hancock,0.70%
+West Virginia,Hardy,0.41%
+West Virginia,Harrison,0.64%
+West Virginia,Jackson,0.59%
+West Virginia,Jefferson,0.60%
+West Virginia,Kanawha,0.77%
+West Virginia,Lewis,0.51%
+West Virginia,Lincoln,0.53%
+West Virginia,Logan,0.58%
+West Virginia,Marion,0.55%
+West Virginia,Marshall,0.66%
+West Virginia,Mason,0.52%
+West Virginia,McDowell,0.65%
+West Virginia,Mercer,0.50%
+West Virginia,Mineral,0.51%
+West Virginia,Mingo,0.48%
+West Virginia,Monongalia,0.57%
+West Virginia,Monroe,0.47%
+West Virginia,Morgan,0.59%
+West Virginia,Nicholas,0.51%
+West Virginia,Ohio,0.65%
+West Virginia,Pendleton,0.47%
+West Virginia,Pleasants,0.62%
+West Virginia,Pocahontas,0.31%
+West Virginia,Preston,0.47%
+West Virginia,Putnam,0.59%
+West Virginia,Raleigh,0.67%
+West Virginia,Randolph,0.43%
+West Virginia,Ritchie,0.62%
+West Virginia,Roane,0.43%
+West Virginia,Summers,0.35%
+West Virginia,Taylor,0.54%
+West Virginia,Tucker,0.36%
+West Virginia,Tyler,0.70%
+West Virginia,Upshur,0.51%
+West Virginia,Wayne,0.58%
+West Virginia,Webster,0.39%
+West Virginia,Wetzel,0.64%
+West Virginia,Wirt,0.54%
+West Virginia,Wood,0.70%
+West Virginia,Wyoming,0.44%
+Wisconsin,Adams,1.53%
+Wisconsin,Ashland,1.70%
+Wisconsin,Barron,1.61%
+Wisconsin,Bayfield,1.26%
+Wisconsin,Brown,1.83%
+Wisconsin,Buffalo,1.61%
+Wisconsin,Burnett,1.14%
+Wisconsin,Calumet,1.81%
+Wisconsin,Chippewa,1.41%
+Wisconsin,Clark,1.74%
+Wisconsin,Columbia,1.69%
+Wisconsin,Crawford,1.95%
+Wisconsin,Dane,2.11%
+Wisconsin,Dodge,1.79%
+Wisconsin,Door,1.23%
+Wisconsin,Douglas,1.62%
+Wisconsin,Dunn,1.76%
+Wisconsin,Eau Claire,1.81%
+Wisconsin,Florence,1.39%
+Wisconsin,Fond du Lac,1.84%
+Wisconsin,Forest,1.42%
+Wisconsin,Grant,1.66%
+Wisconsin,Green,1.99%
+Wisconsin,Green Lake,1.62%
+Wisconsin,Iowa,1.80%
+Wisconsin,Iron,1.35%
+Wisconsin,Jackson,1.65%
+Wisconsin,Jefferson,1.91%
+Wisconsin,Juneau,1.74%
+Wisconsin,Kenosha,2.10%
+Wisconsin,Kewaunee,1.66%
+Wisconsin,La Crosse,1.99%
+Wisconsin,Lafayette,1.90%
+Wisconsin,Langlade,1.50%
+Wisconsin,Lincoln,1.65%
+Wisconsin,Manitowoc,1.87%
+Wisconsin,Marathon,1.87%
+Wisconsin,Marinette,1.43%
+Wisconsin,Marquette,1.67%
+Wisconsin,Menominee,2.96%
+Wisconsin,Milwaukee,2.53%
+Wisconsin,Monroe,1.66%
+Wisconsin,Oconto,1.44%
+Wisconsin,Oneida,1.10%
+Wisconsin,Outagamie,1.87%
+Wisconsin,Ozaukee,1.41%
+Wisconsin,Pepin,1.81%
+Wisconsin,Pierce,1.79%
+Wisconsin,Polk,1.53%
+Wisconsin,Portage,1.66%
+Wisconsin,Price,1.58%
+Wisconsin,Racine,2.07%
+Wisconsin,Richland,1.61%
+Wisconsin,Rock,2.08%
+Wisconsin,Rusk,1.52%
+Wisconsin,Sauk,1.46%
+Wisconsin,Sawyer,1.83%
+Wisconsin,Shawano,1.02%
+Wisconsin,Sheboygan,1.62%
+Wisconsin,St. Croix,1.84%
+Wisconsin,Taylor,1.67%
+Wisconsin,Trempealeau,1.80%
+Wisconsin,Vernon,1.63%
+Wisconsin,Vilas,0.87%
+Wisconsin,Walworth,1.72%
+Wisconsin,Washburn,1.24%
+Wisconsin,Washington,1.38%
+Wisconsin,Waukesha,1.40%
+Wisconsin,Waupaca,1.77%
+Wisconsin,Waushara,1.52%
+Wisconsin,Winnebago,2.03%
+Wisconsin,Wood,1.86%
+Wyoming,Albany,0.61%
+Wyoming,Big Horn,0.66%
+Wyoming,Campbell,0.59%
+Wyoming,Carbon,0.58%
+Wyoming,Converse,0.58%
+Wyoming,Crook,0.53%
+Wyoming,Fremont,0.70%
+Wyoming,Goshen,0.65%
+Wyoming,Hot Springs,0.64%
+Wyoming,Johnson,0.55%
+Wyoming,Laramie,0.69%
+Wyoming,Lincoln,0.51%
+Wyoming,Natrona,0.67%
+Wyoming,Niobrara,0.56%
+Wyoming,Park,0.62%
+Wyoming,Platte,0.63%
+Wyoming,Sheridan,0.54%
+Wyoming,Sublette,0.47%
+Wyoming,Sweetwater,0.64%
+Wyoming,Teton,0.47%
+Wyoming,Uinta,0.61%
+Wyoming,Washakie,0.72%
+Wyoming,Weston,0.69%
+Washington D.C.,District of Columbia,0.57%
